@@ -1,0 +1,4932 @@
+{
+  "1. Introduction": [
+    {
+      "word": "emilian",
+      "definition": "Emilian (Male name)"
+    },
+    {
+      "word": "jina",
+      "definition": "name"
+    },
+    {
+      "word": "juma",
+      "definition": "day, Juma (Male name), week"
+    },
+    {
+      "word": "la",
+      "definition": "of, no, 's"
+    },
+    {
+      "word": "lake",
+      "definition": "her, his"
+    },
+    {
+      "word": "lako",
+      "definition": "your (Ji/Ma possessive), your"
+    },
+    {
+      "word": "langu",
+      "definition": "my"
+    },
+    {
+      "word": "mchina",
+      "definition": "Chinese"
+    },
+    {
+      "word": "mholanzi",
+      "definition": "Dutch, (a/the) Dutch person"
+    },
+    {
+      "word": "mimi",
+      "definition": "I"
+    },
+    {
+      "word": "mkenya",
+      "definition": "Kenyan, a Kenyan"
+    },
+    {
+      "word": "mmarekani",
+      "definition": "(the/an) American, American"
+    },
+    {
+      "word": "mtanzania",
+      "definition": "Tanzanian, (the/a) Tanzanian"
+    },
+    {
+      "word": "nani",
+      "definition": "who"
+    },
+    {
+      "word": "ni",
+      "definition": "is"
+    },
+    {
+      "word": "ninyi",
+      "definition": "you"
+    },
+    {
+      "word": "rehema",
+      "definition": "Rehema (female name)"
+    },
+    {
+      "word": "si",
+      "definition": "not"
+    },
+    {
+      "word": "sisi",
+      "definition": "we"
+    },
+    {
+      "word": "wachina",
+      "definition": "Chinese"
+    },
+    {
+      "word": "waholanzi",
+      "definition": "Dutch, The Dutch"
+    },
+    {
+      "word": "wakenya",
+      "definition": "Kenyans, Kenyan, The Kenyans"
+    },
+    {
+      "word": "wamarekani",
+      "definition": "American, (the) Americans"
+    },
+    {
+      "word": "wao",
+      "definition": "they"
+    },
+    {
+      "word": "watanzania",
+      "definition": "Tanzanians, the Tanzanians, Tanzanian"
+    },
+    {
+      "word": "wewe",
+      "definition": "you"
+    },
+    {
+      "word": "yeye",
+      "definition": "she, he"
+    }
+  ],
+  "2. Greetings 1": [
+    {
+      "word": "asubuhi",
+      "definition": "morning"
+    },
+    {
+      "word": "baba",
+      "definition": "dad"
+    },
+    {
+      "word": "babu",
+      "definition": "grandfather"
+    },
+    {
+      "word": "bibi",
+      "definition": "grandmother"
+    },
+    {
+      "word": "dada",
+      "definition": "sister"
+    },
+    {
+      "word": "habari",
+      "definition": "news"
+    },
+    {
+      "word": "hajambo",
+      "definition": "how is he, he is fine, she is fine, how is she"
+    },
+    {
+      "word": "hamjambo",
+      "definition": "How are you all?, how are you all doing?"
+    },
+    {
+      "word": "hatujambo",
+      "definition": "we are fine"
+    },
+    {
+      "word": "hawajambo",
+      "definition": "They're fine., Are they fine?, Are they well/okay?, How are they?, How are they doing?, They are doing well."
+    },
+    {
+      "word": "hujambo",
+      "definition": "How are you?(singular), Are you fine?"
+    },
+    {
+      "word": "jioni",
+      "definition": "evening"
+    },
+    {
+      "word": "kaka",
+      "definition": "brother"
+    },
+    {
+      "word": "karibu",
+      "definition": "welcome"
+    },
+    {
+      "word": "kazi",
+      "definition": "work"
+    },
+    {
+      "word": "leo",
+      "definition": "today"
+    },
+    {
+      "word": "mama",
+      "definition": "mom"
+    },
+    {
+      "word": "mambo",
+      "definition": "Issues/Matters, Hi/Hey (slang), How are you (Slang), What's Up (Slang), things"
+    },
+    {
+      "word": "mchana",
+      "definition": "afternoon"
+    },
+    {
+      "word": "na",
+      "definition": "and"
+    },
+    {
+      "word": "nyumbani",
+      "definition": "home"
+    },
+    {
+      "word": "nzuri",
+      "definition": "good"
+    },
+    {
+      "word": "poa",
+      "definition": "cool"
+    },
+    {
+      "word": "safi",
+      "definition": "fine"
+    },
+    {
+      "word": "salama",
+      "definition": "peaceful"
+    },
+    {
+      "word": "sijambo",
+      "definition": "I am fine"
+    },
+    {
+      "word": "umeamkaje",
+      "definition": "How did you wake up?"
+    },
+    {
+      "word": "umelalaje",
+      "definition": "How did you sleep?"
+    },
+    {
+      "word": "umeshindaje",
+      "definition": "how have you been?"
+    },
+    {
+      "word": "usiku",
+      "definition": "night"
+    },
+    {
+      "word": "ya",
+      "definition": "'s, because, of (-a), for, of (the)"
+    },
+    {
+      "word": "za",
+      "definition": "za - plural (of/for), of (-a), of, of (the)"
+    }
+  ],
+  "3. Greetings 2": [
+    {
+      "word": "asante",
+      "definition": "thanks"
+    },
+    {
+      "word": "asubuhi njema",
+      "definition": "(Have a) good morning, Have a nice morning"
+    },
+    {
+      "word": "baadaye",
+      "definition": "later"
+    },
+    {
+      "word": "daudi",
+      "definition": "David"
+    },
+    {
+      "word": "esther",
+      "definition": "Esther, Esther's"
+    },
+    {
+      "word": "hodi",
+      "definition": "May I enter, Knock knock, May I come in"
+    },
+    {
+      "word": "jioni njema",
+      "definition": "have a good evening, have a nice evening, good evening"
+    },
+    {
+      "word": "kwa heri",
+      "definition": "goodbye"
+    },
+    {
+      "word": "marahaba",
+      "definition": "Thanks for your respect, I accept your respect, (response to 'shikamoo'), hello"
+    },
+    {
+      "word": "mchana mwema",
+      "definition": "(Have a) good afternoon, Have a nice afternoon, Good afternoon"
+    },
+    {
+      "word": "pole",
+      "definition": "sorry"
+    },
+    {
+      "word": "rashidi",
+      "definition": "Rashidi (male name)"
+    },
+    {
+      "word": "samahani",
+      "definition": "sorry"
+    },
+    {
+      "word": "shikamoo",
+      "definition": "I respect you, Hello (to an elder), My respects to you, hello"
+    },
+    {
+      "word": "siku njema",
+      "definition": "(Have a) good day"
+    },
+    {
+      "word": "tafadhali",
+      "definition": "please"
+    },
+    {
+      "word": "tutaonana baadaye",
+      "definition": "See you later"
+    },
+    {
+      "word": "usiku mwema",
+      "definition": "(Have a) good night"
+    }
+  ],
+  "4. People": [
+    {
+      "word": "asha",
+      "definition": "Asha (female name), asha"
+    },
+    {
+      "word": "binadamu",
+      "definition": "human being"
+    },
+    {
+      "word": "jirani",
+      "definition": "neighbor"
+    },
+    {
+      "word": "kike",
+      "definition": "female"
+    },
+    {
+      "word": "kiume",
+      "definition": "male"
+    },
+    {
+      "word": "mdogo",
+      "definition": "small"
+    },
+    {
+      "word": "mgeni",
+      "definition": "guest"
+    },
+    {
+      "word": "mkubwa",
+      "definition": "big"
+    },
+    {
+      "word": "mrefu",
+      "definition": "tall"
+    },
+    {
+      "word": "msafiri",
+      "definition": "traveler"
+    },
+    {
+      "word": "msichana",
+      "definition": "girl"
+    },
+    {
+      "word": "mtoto",
+      "definition": "child"
+    },
+    {
+      "word": "mtu",
+      "definition": "person"
+    },
+    {
+      "word": "mvulana",
+      "definition": "boy"
+    },
+    {
+      "word": "mwafrika",
+      "definition": "(the/an) African, African"
+    },
+    {
+      "word": "mwalimu",
+      "definition": "teacher"
+    },
+    {
+      "word": "mwanafunzi",
+      "definition": "student"
+    },
+    {
+      "word": "mwanamke",
+      "definition": "woman"
+    },
+    {
+      "word": "mwanaume",
+      "definition": "man"
+    },
+    {
+      "word": "mzazi",
+      "definition": "parent"
+    },
+    {
+      "word": "mzima",
+      "definition": "Healthy, Whole/Complete, good/fine/alright/okay"
+    },
+    {
+      "word": "mzuri",
+      "definition": "good, fine, beautiful, nice, (M/Wa)"
+    },
+    {
+      "word": "na",
+      "definition": "and, with, to, by, in"
+    },
+    {
+      "word": "rafiki",
+      "definition": "friend"
+    },
+    {
+      "word": "saidi",
+      "definition": "Saidi (Male name)"
+    },
+    {
+      "word": "wa",
+      "definition": "for, 's, of"
+    },
+    {
+      "word": "waafrika",
+      "definition": "Africans, The Africans"
+    },
+    {
+      "word": "wachache",
+      "definition": "few"
+    },
+    {
+      "word": "wadogo",
+      "definition": "small"
+    },
+    {
+      "word": "wageni",
+      "definition": "guests"
+    },
+    {
+      "word": "wake",
+      "definition": "her, his"
+    },
+    {
+      "word": "wako",
+      "definition": "your"
+    },
+    {
+      "word": "walimu",
+      "definition": "(the) teachers"
+    },
+    {
+      "word": "wanafunzi",
+      "definition": "students"
+    },
+    {
+      "word": "wanaume",
+      "definition": "men"
+    },
+    {
+      "word": "wanawake",
+      "definition": "women"
+    },
+    {
+      "word": "wanene",
+      "definition": "fat"
+    },
+    {
+      "word": "wangu",
+      "definition": "my"
+    },
+    {
+      "word": "wasafiri",
+      "definition": "travelers"
+    },
+    {
+      "word": "watoto",
+      "definition": "children"
+    },
+    {
+      "word": "watu",
+      "definition": "people"
+    },
+    {
+      "word": "wavulana",
+      "definition": "boys"
+    },
+    {
+      "word": "wazazi",
+      "definition": "parents"
+    },
+    {
+      "word": "wazuri",
+      "definition": "well, fine, great, beautiful, good ones, nice, good"
+    },
+    {
+      "word": "wenu",
+      "definition": "yours"
+    },
+    {
+      "word": "wetu",
+      "definition": "our"
+    }
+  ],
+  "5. Intro 2": [
+    {
+      "word": "Kifaransa",
+      "definition": "French"
+    },
+    {
+      "word": "anasema",
+      "definition": "speaks, he speaks, she speaks"
+    },
+    {
+      "word": "anatoka",
+      "definition": "(he/she) comes from"
+    },
+    {
+      "word": "kidogo",
+      "definition": "a little"
+    },
+    {
+      "word": "ninasema",
+      "definition": "I speak"
+    },
+    {
+      "word": "ninatoka",
+      "definition": "I come from, I am from"
+    },
+    {
+      "word": "unasema",
+      "definition": "you speak"
+    },
+    {
+      "word": "unatoka",
+      "definition": "you are coming from, you come from"
+    },
+    {
+      "word": "wapi",
+      "definition": "where"
+    }
+  ],
+  "6. Jobs": [
+    {
+      "word": "anafanya",
+      "definition": "(he/she) is making, (he/she) makes, (he/she) is doing, (he/she) does"
+    },
+    {
+      "word": "daktari",
+      "definition": "doctor"
+    },
+    {
+      "word": "kazi",
+      "definition": "work"
+    },
+    {
+      "word": "mafundi",
+      "definition": "craftsmen, craftspeople, artisans, handmen, craftswomen, technicians"
+    },
+    {
+      "word": "mbaya",
+      "definition": "bad, wicked"
+    },
+    {
+      "word": "mhandisi",
+      "definition": "(the/an) engineer"
+    },
+    {
+      "word": "mhudumu",
+      "definition": "(the/a) server, (the/a) waiter, (the/a) waitress, (the/a) hostess"
+    },
+    {
+      "word": "mkulima",
+      "definition": "(the/a) farmer"
+    },
+    {
+      "word": "mpishi",
+      "definition": "cook (noun), chef"
+    },
+    {
+      "word": "mshahara",
+      "definition": "wage, salary"
+    },
+    {
+      "word": "mtafsiri",
+      "definition": "translator"
+    },
+    {
+      "word": "muuguzi",
+      "definition": "(the/a) nurse"
+    },
+    {
+      "word": "mvuvi",
+      "definition": "fisher"
+    },
+    {
+      "word": "mwandishi",
+      "definition": "(the/a) writer"
+    },
+    {
+      "word": "mwigizaji",
+      "definition": "actress, actor"
+    },
+    {
+      "word": "mzimamoto",
+      "definition": "(the/a) firefighter"
+    },
+    {
+      "word": "riziki",
+      "definition": "livelihood"
+    },
+    {
+      "word": "rubani",
+      "definition": "pilot"
+    },
+    {
+      "word": "seremala",
+      "definition": "carpenter"
+    },
+    {
+      "word": "wabaya",
+      "definition": "wicked, evil/bad (of people), bad (M/Wa noun class, pl), bad (from stem -baya), bad"
+    },
+    {
+      "word": "wakulima",
+      "definition": "(the) farmers"
+    },
+    {
+      "word": "wanafanya",
+      "definition": "(they) do, (they) make, (they) are performing, (they) are doing, (they) are making, (they) perform"
+    },
+    {
+      "word": "wapishi",
+      "definition": "cooks (noun, pl), chefs"
+    }
+  ],
+  "7. Present Tense 1": [
+    {
+      "word": "-amka",
+      "definition": "awake"
+    },
+    {
+      "word": "-andika",
+      "definition": "write"
+    },
+    {
+      "word": "-enda",
+      "definition": "go"
+    },
+    {
+      "word": "-fanya",
+      "definition": "do"
+    },
+    {
+      "word": "-fikiri",
+      "definition": "think"
+    },
+    {
+      "word": "-hitaji",
+      "definition": "need"
+    },
+    {
+      "word": "-jaribu",
+      "definition": "try"
+    },
+    {
+      "word": "-jibu",
+      "definition": "answer"
+    },
+    {
+      "word": "-kimbia",
+      "definition": "run"
+    },
+    {
+      "word": "-penda",
+      "definition": "love"
+    },
+    {
+      "word": "-pika",
+      "definition": "cook"
+    },
+    {
+      "word": "-rudi",
+      "definition": "return"
+    },
+    {
+      "word": "-soma",
+      "definition": "read"
+    },
+    {
+      "word": "-tembea",
+      "definition": "walk"
+    },
+    {
+      "word": "ana",
+      "definition": "he has, she has, has"
+    },
+    {
+      "word": "fika",
+      "definition": "arrive"
+    },
+    {
+      "word": "hawa",
+      "definition": "These (m/wa), these"
+    },
+    {
+      "word": "kuja",
+      "definition": "comes, To come, coming, come"
+    },
+    {
+      "word": "kula",
+      "definition": "eat, eats, eaten, eating, to eat"
+    },
+    {
+      "word": "kunywa",
+      "definition": "drink (verb), drunk, drinking, drank, to drink"
+    },
+    {
+      "word": "kupa",
+      "definition": "to give"
+    },
+    {
+      "word": "lala",
+      "definition": "sleep"
+    },
+    {
+      "word": "mna",
+      "definition": "you (pl) have, there is (inside)"
+    },
+    {
+      "word": "nina",
+      "definition": "I have, Nina (female name)"
+    },
+    {
+      "word": "saidia",
+      "definition": "help/assist"
+    },
+    {
+      "word": "si",
+      "definition": "it is not, am not, is not, are not"
+    },
+    {
+      "word": "tuna",
+      "definition": "we have"
+    },
+    {
+      "word": "una",
+      "definition": "has, you have, contains"
+    },
+    {
+      "word": "wana",
+      "definition": "offspring (plural), they have, have"
+    }
+  ],
+  "8. M/Mi Nouns": [
+    {
+      "word": "mche",
+      "definition": "seedling"
+    },
+    {
+      "word": "mchezo",
+      "definition": "game"
+    },
+    {
+      "word": "mchoro",
+      "definition": "drawing, the drawing, a drawing"
+    },
+    {
+      "word": "mchuzi",
+      "definition": "stew"
+    },
+    {
+      "word": "mfereji",
+      "definition": "faucet"
+    },
+    {
+      "word": "mfuko",
+      "definition": "backpack, (the/a) bag, pocket, bag"
+    },
+    {
+      "word": "miavuli",
+      "definition": "Umbrellas, The umbrellas"
+    },
+    {
+      "word": "mikuki",
+      "definition": "(the) spears"
+    },
+    {
+      "word": "mipira",
+      "definition": "balls"
+    },
+    {
+      "word": "misikiti",
+      "definition": "Mosques"
+    },
+    {
+      "word": "misitu",
+      "definition": "(the) forests"
+    },
+    {
+      "word": "misumari",
+      "definition": "nails (construction)"
+    },
+    {
+      "word": "miti",
+      "definition": "trees, the trees"
+    },
+    {
+      "word": "mizizi",
+      "definition": "(the) roots"
+    },
+    {
+      "word": "mji",
+      "definition": "town"
+    },
+    {
+      "word": "mkasi",
+      "definition": "1 pair of scissors"
+    },
+    {
+      "word": "mkeka",
+      "definition": "rug, carpet, mat"
+    },
+    {
+      "word": "mkutano",
+      "definition": "meeting"
+    },
+    {
+      "word": "mlango",
+      "definition": "door"
+    },
+    {
+      "word": "mmea",
+      "definition": "(a/the) plant, plant"
+    },
+    {
+      "word": "mnyororo",
+      "definition": "chain"
+    },
+    {
+      "word": "mpaka",
+      "definition": "up to, border/boundary/frontier, until, border"
+    },
+    {
+      "word": "mradi",
+      "definition": "goal"
+    },
+    {
+      "word": "mti",
+      "definition": "tree"
+    },
+    {
+      "word": "mto",
+      "definition": "(a/the) pillow, (a/the) river"
+    },
+    {
+      "word": "mtumbwi",
+      "definition": "canoe"
+    },
+    {
+      "word": "muziki",
+      "definition": "music"
+    },
+    {
+      "word": "mzigo",
+      "definition": "luggage"
+    },
+    {
+      "word": "wa",
+      "definition": "for, 's, of"
+    }
+  ],
+  "9. Chores": [
+    {
+      "word": "-fagia",
+      "definition": "sweep"
+    },
+    {
+      "word": "-futa",
+      "definition": "erase"
+    },
+    {
+      "word": "-osha",
+      "definition": "wash"
+    },
+    {
+      "word": "-washa",
+      "definition": "ignite"
+    },
+    {
+      "word": "bafu",
+      "definition": "bathroom"
+    },
+    {
+      "word": "chumba",
+      "definition": "room"
+    },
+    {
+      "word": "chupa",
+      "definition": "bottle"
+    },
+    {
+      "word": "dirisha",
+      "definition": "window"
+    },
+    {
+      "word": "faridi",
+      "definition": "Faridi (Male name)"
+    },
+    {
+      "word": "jamila",
+      "definition": "Jamila (Female name)"
+    },
+    {
+      "word": "jiko",
+      "definition": "stove"
+    },
+    {
+      "word": "kikombe",
+      "definition": "cup"
+    },
+    {
+      "word": "meza",
+      "definition": "table"
+    },
+    {
+      "word": "moto",
+      "definition": "fire"
+    },
+    {
+      "word": "ndoo",
+      "definition": "bucket"
+    },
+    {
+      "word": "nguo",
+      "definition": "cloth"
+    },
+    {
+      "word": "sabuni",
+      "definition": "soap"
+    },
+    {
+      "word": "sahani",
+      "definition": "plate"
+    },
+    {
+      "word": "sufuria",
+      "definition": "pan"
+    },
+    {
+      "word": "takataka",
+      "definition": "garbage"
+    },
+    {
+      "word": "ufagio",
+      "definition": "broom"
+    },
+    {
+      "word": "vyombo",
+      "definition": "Dishes, Tools/equipment, The dishes/utensils, equipment, utensils"
+    }
+  ],
+  "10. Food": [
+    {
+      "word": "-omba",
+      "definition": "request"
+    },
+    {
+      "word": "bia",
+      "definition": "beer"
+    },
+    {
+      "word": "chai",
+      "definition": "tea"
+    },
+    {
+      "word": "chajio",
+      "definition": "dinner"
+    },
+    {
+      "word": "chakula",
+      "definition": "food"
+    },
+    {
+      "word": "chipsi",
+      "definition": "(the) French fries, (the) fries, (the) chips"
+    },
+    {
+      "word": "juisi",
+      "definition": "(the) juice"
+    },
+    {
+      "word": "kahawa",
+      "definition": "coffee"
+    },
+    {
+      "word": "karoti",
+      "definition": "Carrot(s), carrots, carrot"
+    },
+    {
+      "word": "kiamsha kinywa",
+      "definition": "breakfast"
+    },
+    {
+      "word": "kitoweo",
+      "definition": "(the/a) stew"
+    },
+    {
+      "word": "kuku",
+      "definition": "chicken"
+    },
+    {
+      "word": "machungwa",
+      "definition": "(the) oranges"
+    },
+    {
+      "word": "maembe",
+      "definition": "(the) mangoes, (the) mangos"
+    },
+    {
+      "word": "maharage",
+      "definition": "(the) beans"
+    },
+    {
+      "word": "maji",
+      "definition": "water"
+    },
+    {
+      "word": "maparachichi",
+      "definition": "Avocados, The avocados"
+    },
+    {
+      "word": "matunda",
+      "definition": "(the) fruit, (the) fruits"
+    },
+    {
+      "word": "mayai",
+      "definition": "eggs, the eggs"
+    },
+    {
+      "word": "maziwa",
+      "definition": "milk"
+    },
+    {
+      "word": "mboga",
+      "definition": "vegetable"
+    },
+    {
+      "word": "mbuzi",
+      "definition": "goat"
+    },
+    {
+      "word": "mkate",
+      "definition": "bread"
+    },
+    {
+      "word": "mlo",
+      "definition": "meal"
+    },
+    {
+      "word": "ndizi",
+      "definition": "banana"
+    },
+    {
+      "word": "ng'ombe",
+      "definition": "cow"
+    },
+    {
+      "word": "nguruwe",
+      "definition": "pig"
+    },
+    {
+      "word": "nyanya",
+      "definition": "Tomato, Grandmother, Tomatoes, a tomato"
+    },
+    {
+      "word": "pilipili hoho",
+      "definition": "bell pepper"
+    },
+    {
+      "word": "samaki",
+      "definition": "fish"
+    },
+    {
+      "word": "ugali",
+      "definition": "ugali"
+    },
+    {
+      "word": "viazi",
+      "definition": "(the) potatoes"
+    },
+    {
+      "word": "vinywaji",
+      "definition": "Drinks, Beverages"
+    },
+    {
+      "word": "vitunguu",
+      "definition": "(the) onions"
+    },
+    {
+      "word": "vitunguu saumu",
+      "definition": "Garlic"
+    },
+    {
+      "word": "wali",
+      "definition": "rice"
+    },
+    {
+      "word": "yai",
+      "definition": "egg"
+    }
+  ],
+  "11. Common Verbs": [
+    {
+      "word": "-jenga",
+      "definition": "build"
+    },
+    {
+      "word": "-taka",
+      "definition": "want"
+    },
+    {
+      "word": "-zima",
+      "definition": "extinguish"
+    },
+    {
+      "word": "alika",
+      "definition": "invite"
+    },
+    {
+      "word": "elewa",
+      "definition": "understand"
+    },
+    {
+      "word": "hudhuria",
+      "definition": "attend"
+    },
+    {
+      "word": "imba",
+      "definition": "sing"
+    },
+    {
+      "word": "linda",
+      "definition": "guard, guard/protect, protect"
+    },
+    {
+      "word": "ogopa",
+      "definition": "fear (verb), be afraid of"
+    },
+    {
+      "word": "pata",
+      "definition": "obtain, get/got/gotten, get, receive, gotten, received, find"
+    },
+    {
+      "word": "rekebisha",
+      "definition": "repair, fix, correct (verb)"
+    },
+    {
+      "word": "sherekea",
+      "definition": "celebrate"
+    },
+    {
+      "word": "tamani",
+      "definition": "wish"
+    },
+    {
+      "word": "tarajia",
+      "definition": "expect"
+    },
+    {
+      "word": "tengeneza",
+      "definition": "repair"
+    },
+    {
+      "word": "tuma",
+      "definition": "Send"
+    },
+    {
+      "word": "tumia",
+      "definition": "Use"
+    },
+    {
+      "word": "tunga",
+      "definition": "construct, compose"
+    },
+    {
+      "word": "vuna",
+      "definition": "reap, harvest (verb), harvest"
+    },
+    {
+      "word": "vuta",
+      "definition": "pull"
+    }
+  ],
+  "12. To Have": [
+    {
+      "word": "hana",
+      "definition": "she/he doesn't have, she/he has no"
+    },
+    {
+      "word": "hatuna",
+      "definition": "We don't have, we do not have"
+    },
+    {
+      "word": "hawana",
+      "definition": "They don't have, don't have"
+    },
+    {
+      "word": "huna",
+      "definition": "You don't have, You do not have"
+    },
+    {
+      "word": "na",
+      "definition": "and, with, to, by, in"
+    },
+    {
+      "word": "sina",
+      "definition": "I do not have"
+    }
+  ],
+  "13. Present 2": [
+    {
+      "word": "chagua",
+      "definition": "choose, select"
+    },
+    {
+      "word": "endesha",
+      "definition": "drive"
+    },
+    {
+      "word": "jua",
+      "definition": "Sun, The sun, know"
+    },
+    {
+      "word": "kaa",
+      "definition": "Sit, Crab(s), Stay"
+    },
+    {
+      "word": "lia",
+      "definition": "cry!"
+    },
+    {
+      "word": "tembelea",
+      "definition": "visit"
+    },
+    {
+      "word": "weza",
+      "definition": "can"
+    }
+  ],
+  "14. Ki/Vi Nouns": [
+    {
+      "word": "cha",
+      "definition": "of (-a), of, 's"
+    },
+    {
+      "word": "chakula",
+      "definition": "(the) food"
+    },
+    {
+      "word": "chandarua",
+      "definition": "(A/the) mosquito net"
+    },
+    {
+      "word": "choo",
+      "definition": "Toilet, bathroom, a/the toilet/lavatory, Lavatory, room"
+    },
+    {
+      "word": "chuo",
+      "definition": "School, Institution"
+    },
+    {
+      "word": "kiatu",
+      "definition": "(a/the) shoe"
+    },
+    {
+      "word": "kiingereza",
+      "definition": "English"
+    },
+    {
+      "word": "kijiko",
+      "definition": "spoon, a spoon"
+    },
+    {
+      "word": "kisima",
+      "definition": "a/the well, well"
+    },
+    {
+      "word": "kisiwa",
+      "definition": "(the/an) island"
+    },
+    {
+      "word": "kisu",
+      "definition": "(the/a) knife, knife"
+    },
+    {
+      "word": "kiswahili",
+      "definition": "Swahili (language)"
+    },
+    {
+      "word": "kitabu",
+      "definition": "(a/the) book"
+    },
+    {
+      "word": "kitanda",
+      "definition": "Bed, a/the bed"
+    },
+    {
+      "word": "kiti",
+      "definition": "(A/The) chair"
+    },
+    {
+      "word": "viatu",
+      "definition": "(the) shoes"
+    },
+    {
+      "word": "vijiko",
+      "definition": "spoons"
+    },
+    {
+      "word": "visu",
+      "definition": "knives"
+    },
+    {
+      "word": "vitabu",
+      "definition": "(the) books"
+    },
+    {
+      "word": "vitanda",
+      "definition": "beds, the beds"
+    },
+    {
+      "word": "viti",
+      "definition": "chairs, The chairs"
+    },
+    {
+      "word": "vyakula",
+      "definition": "food, foods"
+    }
+  ],
+  "15. N/N Nouns": [
+    {
+      "word": "aina",
+      "definition": "type/kind, types, kinds, type"
+    },
+    {
+      "word": "barua",
+      "definition": "(the) letters, mail, (the/a) letter, letters"
+    },
+    {
+      "word": "barua pepe",
+      "definition": "(the) emails, (an/the) email"
+    },
+    {
+      "word": "bustani",
+      "definition": "a/the garden, garden"
+    },
+    {
+      "word": "chumvi",
+      "definition": "salt, the salt"
+    },
+    {
+      "word": "dawa ya wadudu",
+      "definition": "pesticide, Insecticide, insecticides"
+    },
+    {
+      "word": "familia",
+      "definition": "Family, Families"
+    },
+    {
+      "word": "ina",
+      "definition": "it has, has"
+    },
+    {
+      "word": "ishara",
+      "definition": "symbol/sign, symbol"
+    },
+    {
+      "word": "kalamu",
+      "definition": "pen, a/the pen, pens, pencil(s)"
+    },
+    {
+      "word": "kamba",
+      "definition": "rope, ropes"
+    },
+    {
+      "word": "kamera",
+      "definition": "cameras, (a/the) camera"
+    },
+    {
+      "word": "karatasi",
+      "definition": "papers, (the) paper"
+    },
+    {
+      "word": "kompyuta",
+      "definition": "(the/a) computer, (the) computers"
+    },
+    {
+      "word": "mbegu",
+      "definition": "seed(s), seeds"
+    },
+    {
+      "word": "nchi",
+      "definition": "(the/a) country, countries"
+    },
+    {
+      "word": "nguvu",
+      "definition": "strength, force, power"
+    },
+    {
+      "word": "nyota",
+      "definition": "star, star/stars, stars"
+    },
+    {
+      "word": "nyumba",
+      "definition": "houses, (the/a) house"
+    },
+    {
+      "word": "ofisi",
+      "definition": "offices, (the/an) office"
+    },
+    {
+      "word": "pesa",
+      "definition": "money"
+    },
+    {
+      "word": "picha",
+      "definition": "photos, (a/the) photo, pictures, (a/the) picture, photographs"
+    },
+    {
+      "word": "pombe",
+      "definition": "(the) alcohol"
+    },
+    {
+      "word": "shida",
+      "definition": "problem/problems, issue/issues"
+    },
+    {
+      "word": "shule",
+      "definition": "(the/a) school, (the) schools, (to) school"
+    },
+    {
+      "word": "simu",
+      "definition": "phones, (a/the) phone, telephone"
+    },
+    {
+      "word": "taa",
+      "definition": "(a/the) lantern, lights, the lights/lamps/lanterns, (a/the) light/lamp"
+    },
+    {
+      "word": "tanzania",
+      "definition": "Tanzania, in Tanzania, (to) Tanzania"
+    },
+    {
+      "word": "zanzibar",
+      "definition": "(to/in) Zanzibar"
+    },
+    {
+      "word": "zawadi",
+      "definition": "(the/a) gift, (the/a) present, gifts, presents"
+    },
+    {
+      "word": "zina",
+      "definition": "They have(N/N)"
+    }
+  ],
+  "16. Ji/Ma Nouns": [
+    {
+      "word": "blanketi",
+      "definition": "Blanket, a/the blanket"
+    },
+    {
+      "word": "daraja",
+      "definition": "(A/The) bridge"
+    },
+    {
+      "word": "duka",
+      "definition": "(the/a) shop, (the/a) store, store"
+    },
+    {
+      "word": "embe",
+      "definition": "(a/the) mango"
+    },
+    {
+      "word": "gazeti",
+      "definition": "magazine, (a/the) newspaper"
+    },
+    {
+      "word": "godoro",
+      "definition": "a/the mattress, mattress"
+    },
+    {
+      "word": "jambo",
+      "definition": "issue, matter (n)"
+    },
+    {
+      "word": "jani",
+      "definition": "(a/the) leaf, leaf"
+    },
+    {
+      "word": "jembe",
+      "definition": "(a/the) hoe, hoe"
+    },
+    {
+      "word": "jibu",
+      "definition": "(the/an) answer, (the/a) response, Answer!, (the/a) reply, Reply!, answer"
+    },
+    {
+      "word": "jimbo",
+      "definition": "state, province, the state"
+    },
+    {
+      "word": "kosa",
+      "definition": "mistake, error"
+    },
+    {
+      "word": "maarifa",
+      "definition": "Knowledge"
+    },
+    {
+      "word": "mabadiliko",
+      "definition": "change, changes"
+    },
+    {
+      "word": "maendeleo",
+      "definition": "Development, Progress"
+    },
+    {
+      "word": "mafuta",
+      "definition": "oil/oils, oil"
+    },
+    {
+      "word": "matope",
+      "definition": "mud, the mud"
+    },
+    {
+      "word": "mawe",
+      "definition": "stones/rocks, stones"
+    },
+    {
+      "word": "mazingira",
+      "definition": "(the/an) environment, (the) surroundings"
+    },
+    {
+      "word": "mazungumzo",
+      "definition": "A dialogue, A conversation, Conversations, talks"
+    },
+    {
+      "word": "nanasi",
+      "definition": "(a/the) pineapple, pineapple"
+    },
+    {
+      "word": "papai",
+      "definition": "pawpaw, papaya"
+    },
+    {
+      "word": "shamba",
+      "definition": "(the/a) farm, field"
+    },
+    {
+      "word": "shauri",
+      "definition": "issue, advice, advise"
+    },
+    {
+      "word": "suluhisho",
+      "definition": "(the/a) solution"
+    },
+    {
+      "word": "swali",
+      "definition": "(a/the) question"
+    },
+    {
+      "word": "taifa",
+      "definition": "(a/the) nation, national, country"
+    },
+    {
+      "word": "tunda",
+      "definition": "fruit, (a/the) fruit"
+    },
+    {
+      "word": "ua",
+      "definition": "kill, (a/the) flower, flower"
+    }
+  ],
+  "17. Numbers": [
+    {
+      "word": "arobaini",
+      "definition": "Forty"
+    },
+    {
+      "word": "elfu",
+      "definition": "thousand"
+    },
+    {
+      "word": "hamsini",
+      "definition": "Fifty"
+    },
+    {
+      "word": "ishirini",
+      "definition": "twenty"
+    },
+    {
+      "word": "kumi",
+      "definition": "ten, 10"
+    },
+    {
+      "word": "kwanza",
+      "definition": "first"
+    },
+    {
+      "word": "laki",
+      "definition": "hundred thousand"
+    },
+    {
+      "word": "mia",
+      "definition": "hundred, one hundred"
+    },
+    {
+      "word": "milioni",
+      "definition": "Million, A million"
+    },
+    {
+      "word": "mwaka",
+      "definition": "(a/the) year, in the year"
+    },
+    {
+      "word": "mwisho",
+      "definition": "final, (the/an) end, last"
+    },
+    {
+      "word": "nne",
+      "definition": "Four"
+    },
+    {
+      "word": "saba",
+      "definition": "Seven"
+    },
+    {
+      "word": "sabini",
+      "definition": "seventy"
+    },
+    {
+      "word": "sita",
+      "definition": "six"
+    },
+    {
+      "word": "sitini",
+      "definition": "Sixty"
+    },
+    {
+      "word": "tano",
+      "definition": "five"
+    },
+    {
+      "word": "thelathini",
+      "definition": "Thirty"
+    },
+    {
+      "word": "themanini",
+      "definition": "eighty"
+    },
+    {
+      "word": "tisa",
+      "definition": "nine"
+    },
+    {
+      "word": "tisini",
+      "definition": "Ninety"
+    },
+    {
+      "word": "umri",
+      "definition": "age"
+    }
+  ],
+  "18. Adjectives": [
+    {
+      "word": "ajabu",
+      "definition": "awe, wonder, amazement"
+    },
+    {
+      "word": "fupi",
+      "definition": "short (N/N), short"
+    },
+    {
+      "word": "ghali",
+      "definition": "expensive"
+    },
+    {
+      "word": "gumu",
+      "definition": "hard /rigid/solid, difficult/complicated"
+    },
+    {
+      "word": "kubwa",
+      "definition": "heavy, big/large/huge, big"
+    },
+    {
+      "word": "kuu",
+      "definition": "main, major, premier, dominant, chief (adj.)"
+    },
+    {
+      "word": "maridadi",
+      "definition": "elegant, stylish, fancy, beautiful"
+    },
+    {
+      "word": "maskini",
+      "definition": "poor"
+    },
+    {
+      "word": "pana",
+      "definition": "Specific place ), There is /There are at"
+    },
+    {
+      "word": "pia",
+      "definition": "also"
+    },
+    {
+      "word": "rahisi",
+      "definition": "simple, cheap, cheap/easy, easy"
+    },
+    {
+      "word": "safi",
+      "definition": "well, amazing, fine, ok, alright, nice, awesome, good, pure, clean"
+    },
+    {
+      "word": "tajiri",
+      "definition": "rich, wealthy"
+    }
+  ],
+  "19. Adjectives of Quantity": [
+    {
+      "word": "baadhi ya",
+      "definition": "Some, A couple of"
+    },
+    {
+      "word": "chache",
+      "definition": "few"
+    },
+    {
+      "word": "chungu nzima",
+      "definition": "a lot of, a great deal of"
+    },
+    {
+      "word": "haba",
+      "definition": "little, few"
+    },
+    {
+      "word": "idadi ya",
+      "definition": "a number of"
+    },
+    {
+      "word": "kadhaa",
+      "definition": "several"
+    },
+    {
+      "word": "kila",
+      "definition": "each, every"
+    },
+    {
+      "word": "wastani",
+      "definition": "average, medium, moderate, average size"
+    }
+  ],
+  "20. Commands": [
+    {
+      "word": "amka",
+      "definition": "Wake up!"
+    },
+    {
+      "word": "andikeni",
+      "definition": "Write! (pl.), write"
+    },
+    {
+      "word": "angalia",
+      "definition": "look at, look, look/watch"
+    },
+    {
+      "word": "angalieni",
+      "definition": "Watch! (plural), Look (at)! (plural)"
+    },
+    {
+      "word": "beba",
+      "definition": "carry, carry it"
+    },
+    {
+      "word": "bila",
+      "definition": "without"
+    },
+    {
+      "word": "cheza",
+      "definition": "Play, Dance"
+    },
+    {
+      "word": "chukua",
+      "definition": "Take, takes"
+    },
+    {
+      "word": "fanya kazi",
+      "definition": "work"
+    },
+    {
+      "word": "furaha",
+      "definition": "happiness, joy"
+    },
+    {
+      "word": "furahi",
+      "definition": "Be happy"
+    },
+    {
+      "word": "hapa",
+      "definition": "here"
+    },
+    {
+      "word": "haraka",
+      "definition": "fast, Quickly"
+    },
+    {
+      "word": "imbeni",
+      "definition": "Sing! (pl.), sing"
+    },
+    {
+      "word": "ingia",
+      "definition": "Enter"
+    },
+    {
+      "word": "jaribu",
+      "definition": "Test!, Attempt!, Try!, try"
+    },
+    {
+      "word": "jibu",
+      "definition": "(the/an) answer, (the/a) response, Answer!, (the/a) reply, Reply!, answer"
+    },
+    {
+      "word": "jibuni",
+      "definition": "All of you respond/answer, answer"
+    },
+    {
+      "word": "kaa",
+      "definition": "Sit, Crab(s), Stay"
+    },
+    {
+      "word": "kimbia",
+      "definition": "run"
+    },
+    {
+      "word": "kula",
+      "definition": "eat, eats, eaten, eating, to eat"
+    },
+    {
+      "word": "kunyweni",
+      "definition": "Drink! (plural)"
+    },
+    {
+      "word": "lala",
+      "definition": "sleep"
+    },
+    {
+      "word": "lete",
+      "definition": "bring"
+    },
+    {
+      "word": "nenda",
+      "definition": "Go!, go"
+    },
+    {
+      "word": "njoo",
+      "definition": "come!, come"
+    },
+    {
+      "word": "njooni",
+      "definition": "You(pl) come, You all come"
+    },
+    {
+      "word": "nunua",
+      "definition": "buy/purchase, buy"
+    },
+    {
+      "word": "nunueni",
+      "definition": "Purchase! (pl.), Buy! (pl.), buy"
+    },
+    {
+      "word": "oga",
+      "definition": "bathe/take a bath/shower, bathe"
+    },
+    {
+      "word": "ogeni",
+      "definition": "Bathe! (pl.), Shower! (pl.)"
+    },
+    {
+      "word": "polepole",
+      "definition": "slowly/gently, slowly"
+    },
+    {
+      "word": "rudi",
+      "definition": "return, returns"
+    },
+    {
+      "word": "sasa",
+      "definition": "now"
+    },
+    {
+      "word": "sema",
+      "definition": "speak"
+    },
+    {
+      "word": "semeni",
+      "definition": "You all speak, You(pl) speak, speak"
+    },
+    {
+      "word": "soma",
+      "definition": "read, study"
+    },
+    {
+      "word": "someni",
+      "definition": "Read! (pl.), Study! (pl.), read"
+    },
+    {
+      "word": "tembea",
+      "definition": "walk"
+    },
+    {
+      "word": "tembeeni",
+      "definition": "Walk! (plural)"
+    },
+    {
+      "word": "weka",
+      "definition": "Keep!, Add!, add, Put!, keep"
+    }
+  ],
+  "21. Clothing": [
+    {
+      "word": "bangili",
+      "definition": "bangle, bracelet(s), Armlet(s), (a/the) bangle/armlet, Bangle(s), bracelet"
+    },
+    {
+      "word": "blauzi",
+      "definition": "blouses/tunics, a/the blouse/tunic, blouses"
+    },
+    {
+      "word": "chupi",
+      "definition": "underpants/panties, underpants, knickers, panties"
+    },
+    {
+      "word": "fulana",
+      "definition": "vest, T-shirt, undershirt"
+    },
+    {
+      "word": "gauni",
+      "definition": "(the/a) dress, (the/a) gown"
+    },
+    {
+      "word": "hereni",
+      "definition": "(the) earrings"
+    },
+    {
+      "word": "kanga",
+      "definition": "(a/the) kanga"
+    },
+    {
+      "word": "kanzu",
+      "definition": "kanzu, tunic"
+    },
+    {
+      "word": "kaptura",
+      "definition": "shorts"
+    },
+    {
+      "word": "kikoi",
+      "definition": "(the) loincloth, (a/the) sarong, (a/the) kikoi"
+    },
+    {
+      "word": "kilemba",
+      "definition": "(a/the) turban"
+    },
+    {
+      "word": "kitenge",
+      "definition": "Kitenge, (a/the) kitenge"
+    },
+    {
+      "word": "kofia",
+      "definition": "caps, (the/a) hat, (the/a) cap, hats, hat"
+    },
+    {
+      "word": "koti",
+      "definition": "(the/a) jacket, (the/a) coat"
+    },
+    {
+      "word": "pete",
+      "definition": "Ring, Rings, (a/the) ring"
+    },
+    {
+      "word": "shanga",
+      "definition": "Beads, Bead"
+    },
+    {
+      "word": "shati",
+      "definition": "(the/a) shirt, shirts"
+    },
+    {
+      "word": "sketi",
+      "definition": "skirts, a/the skirt, skirt"
+    },
+    {
+      "word": "soksi",
+      "definition": "socks"
+    },
+    {
+      "word": "suruali",
+      "definition": "(the) trousers, (the) pants"
+    },
+    {
+      "word": "suti",
+      "definition": "(a/the] suit, suits"
+    },
+    {
+      "word": "tai",
+      "definition": "a tie, Ties, the tie"
+    },
+    {
+      "word": "vazi rasmi",
+      "definition": "uniform (noun)"
+    }
+  ],
+  "22. Interrogatives": [
+    {
+      "word": "je",
+      "definition": "(Preceding interrogative)"
+    },
+    {
+      "word": "kwa nini",
+      "definition": "why"
+    },
+    {
+      "word": "mbona",
+      "definition": "How come, why"
+    },
+    {
+      "word": "ngapi",
+      "definition": "How much is, How many, How much are"
+    }
+  ],
+  "23. U/N Nouns": [
+    {
+      "word": "funguo",
+      "definition": "(the) keys, keys"
+    },
+    {
+      "word": "kuta",
+      "definition": "walls"
+    },
+    {
+      "word": "nyimbo",
+      "definition": "songs"
+    },
+    {
+      "word": "nyufa",
+      "definition": "(the) cracks"
+    },
+    {
+      "word": "nyuso",
+      "definition": "(the) faces"
+    },
+    {
+      "word": "nyuzi",
+      "definition": "Threads, yarns, yarn, thread"
+    },
+    {
+      "word": "ubaya",
+      "definition": "(the) ugliness, (the) badness, (the) wickedness, (the) evil, ugliness"
+    },
+    {
+      "word": "uchafu",
+      "definition": "dirty, (the) dirtiness, (the) dirt, uncleanliness"
+    },
+    {
+      "word": "uchumi",
+      "definition": "(the/an) economy, Economics"
+    },
+    {
+      "word": "ufa",
+      "definition": "(the/a) crack, rift"
+    },
+    {
+      "word": "ufunguo",
+      "definition": "(the/a) key"
+    },
+    {
+      "word": "ukarimu",
+      "definition": "Hospitality, Generosity"
+    },
+    {
+      "word": "ukubwa",
+      "definition": "size, proportions"
+    },
+    {
+      "word": "ukurasa",
+      "definition": "(the/a) page"
+    },
+    {
+      "word": "ukuta",
+      "definition": "(the/a) wall"
+    },
+    {
+      "word": "ukweli",
+      "definition": "(the) truth"
+    },
+    {
+      "word": "umeme",
+      "definition": "Electricity, electric"
+    },
+    {
+      "word": "upendo",
+      "definition": "A love, Love, The love"
+    },
+    {
+      "word": "upishi",
+      "definition": "(the) cooking, (the/a) recipe, cooking, recipe"
+    },
+    {
+      "word": "upole",
+      "definition": "gentleness, (a/the) gentleness"
+    },
+    {
+      "word": "uso",
+      "definition": "(the/a) face, face"
+    },
+    {
+      "word": "uzi",
+      "definition": "(a/the) thread, thread, yarn, (a/the) yarn"
+    },
+    {
+      "word": "uzuri",
+      "definition": "Beauty"
+    },
+    {
+      "word": "wembe",
+      "definition": "Razor blade, a/the razor blade"
+    },
+    {
+      "word": "wimbo",
+      "definition": "(the/a) song"
+    }
+  ],
+  "24. Present 3": [
+    {
+      "word": "kagua",
+      "definition": "Inspect/check, inspect"
+    },
+    {
+      "word": "kuanza",
+      "definition": "starting, To begin, begin, beginning, start, To start, began"
+    },
+    {
+      "word": "kuendelea",
+      "definition": "progressing"
+    },
+    {
+      "word": "kuingia",
+      "definition": "entering"
+    },
+    {
+      "word": "kuoza",
+      "definition": "to rot, to decay"
+    },
+    {
+      "word": "kutosha",
+      "definition": "to be enough/to suffice"
+    },
+    {
+      "word": "kuwa",
+      "definition": "to be, being, be, that"
+    },
+    {
+      "word": "na",
+      "definition": "and, with, to, by, in"
+    }
+  ],
+  "25. Animals": [
+    {
+      "word": "buibui",
+      "definition": "spiders, (the/a) spider"
+    },
+    {
+      "word": "chui",
+      "definition": "leopards, (a/the) leopard"
+    },
+    {
+      "word": "duma",
+      "definition": "cheetah/cheetahs, A/the cheetah, cheetah"
+    },
+    {
+      "word": "farasi",
+      "definition": "horses, Horse(s), (a/the) horse, horse"
+    },
+    {
+      "word": "jongoo",
+      "definition": "(the/a) millipede, (the) millipedes"
+    },
+    {
+      "word": "kambakoche",
+      "definition": "(the/a) lobster, lobsters, lobster"
+    },
+    {
+      "word": "kiboko",
+      "definition": "(a/the) hippo, (a/the) hippopotamus"
+    },
+    {
+      "word": "kifaru",
+      "definition": "(A/the) rhinoceros/rhino, Rhinoceros, rhino"
+    },
+    {
+      "word": "kondoo",
+      "definition": "the sheep, a sheep/sheep, sheep"
+    },
+    {
+      "word": "konokono",
+      "definition": "snails, (A/the) snail"
+    },
+    {
+      "word": "mamba",
+      "definition": "(the) crocodiles, (a/the) crocodile"
+    },
+    {
+      "word": "mbwa",
+      "definition": "(the/a) dog, (the) dogs, dogs"
+    },
+    {
+      "word": "mdudu",
+      "definition": "bug, insect"
+    },
+    {
+      "word": "mende",
+      "definition": "cockroaches, (a/the) cockroach, Roach, Roaches"
+    },
+    {
+      "word": "mkunga",
+      "definition": "(the/an) eel, eel"
+    },
+    {
+      "word": "mnyama",
+      "definition": "(the/an) animal"
+    },
+    {
+      "word": "nge",
+      "definition": "scorpions, (the/a) scorpion"
+    },
+    {
+      "word": "ngisi",
+      "definition": "squids, (a/the) squid"
+    },
+    {
+      "word": "nyangumi",
+      "definition": "whales, (a/the) whale"
+    },
+    {
+      "word": "nyati",
+      "definition": "(the) buffaloes, (the/a) buffalo"
+    },
+    {
+      "word": "nyigu",
+      "definition": "Wasp, Wasps, (a/the) wasp"
+    },
+    {
+      "word": "nyoka",
+      "definition": "snakes, (the/a) snake"
+    },
+    {
+      "word": "nyuki",
+      "definition": "(a/the) bee, bees"
+    },
+    {
+      "word": "nyumbu",
+      "definition": "gnu, wildebeests, (the/a) gnu, (A/the) wildebeest, wildebeest"
+    },
+    {
+      "word": "nzi",
+      "definition": "flies (noun), fly (noun), flies"
+    },
+    {
+      "word": "paa",
+      "definition": "(a/the) gazelle, gazelles"
+    },
+    {
+      "word": "paka",
+      "definition": "(the) cats, (the/a) cat, spread"
+    },
+    {
+      "word": "panya",
+      "definition": "(a/the) mouse, (a/the) rat, mice, rats"
+    },
+    {
+      "word": "papa",
+      "definition": "Sharks, (A/the) shark, shark"
+    },
+    {
+      "word": "pomboo",
+      "definition": "(a/the) dolphin, dolphins"
+    },
+    {
+      "word": "pundamilia",
+      "definition": "Zebras, (A/The) zebra"
+    },
+    {
+      "word": "pweza",
+      "definition": "(the/an) octopus"
+    },
+    {
+      "word": "samaki",
+      "definition": "(a/the) fish, fish"
+    },
+    {
+      "word": "simba",
+      "definition": "(the) lions, (the/a) lion"
+    },
+    {
+      "word": "tembo",
+      "definition": "(the/an) elephant, (the) elephants, elephant"
+    },
+    {
+      "word": "twiga",
+      "definition": "(the) giraffes, (the/a) giraffe"
+    },
+    {
+      "word": "uduvi",
+      "definition": "(a/the) shrimp, shrimps"
+    },
+    {
+      "word": "vifaru",
+      "definition": "Rhinoceroses, rhinos"
+    },
+    {
+      "word": "wadudu",
+      "definition": "bugs, insects"
+    },
+    {
+      "word": "wanyama",
+      "definition": "(the) animals"
+    }
+  ],
+  "26. Shopping": [
+    {
+      "word": "bei",
+      "definition": "price"
+    },
+    {
+      "word": "bidhaa",
+      "definition": "goods, merchandise/products, merchandise"
+    },
+    {
+      "word": "fungu",
+      "definition": "Pile/heap, a/the pile/heap, pile"
+    },
+    {
+      "word": "ghali",
+      "definition": "expensive"
+    },
+    {
+      "word": "jumla",
+      "definition": "Total, The total, in total"
+    },
+    {
+      "word": "kilo",
+      "definition": "Kilogram/kilograms, kilogram, kilograms"
+    },
+    {
+      "word": "mchele",
+      "definition": "uncooked rice, rice"
+    },
+    {
+      "word": "mnunuzi",
+      "definition": "a/the buyer, purchaser, buyer, customer"
+    },
+    {
+      "word": "mteja",
+      "definition": "customer, Buyer, a/the customer/client, Client/customer, client"
+    },
+    {
+      "word": "muuzaji",
+      "definition": "(the/a) seller"
+    },
+    {
+      "word": "sembe",
+      "definition": "Corn flour/Maize flour"
+    },
+    {
+      "word": "shilingi",
+      "definition": "shillings"
+    },
+    {
+      "word": "soko",
+      "definition": "a/the market, market"
+    },
+    {
+      "word": "sukari",
+      "definition": "sugar"
+    },
+    {
+      "word": "tambi",
+      "definition": "pasta, noodles, vermicelli, spaghetti"
+    },
+    {
+      "word": "unga wa ngano",
+      "definition": "wheat flour"
+    },
+    {
+      "word": "viungo",
+      "definition": "Spices"
+    },
+    {
+      "word": "wanunuzi",
+      "definition": "The buyers, Buyers, customers"
+    },
+    {
+      "word": "wateja",
+      "definition": "(the) customers, (the) clients"
+    },
+    {
+      "word": "wauzaji",
+      "definition": "sellers, The sellers"
+    }
+  ],
+  "27. Past Tense": [
+    {
+      "word": "jana",
+      "definition": "Yesterday"
+    },
+    {
+      "word": "juzi",
+      "definition": "The day before yesterday, Two days ago"
+    },
+    {
+      "word": "mwaka uliopita",
+      "definition": "Last year"
+    },
+    {
+      "word": "mwezi uliopita",
+      "definition": "last month"
+    },
+    {
+      "word": "siku",
+      "definition": "(a/the) day, days, day"
+    },
+    {
+      "word": "usiku uliopita",
+      "definition": "last night, previous night"
+    },
+    {
+      "word": "wiki iliyopita",
+      "definition": "Last week"
+    }
+  ],
+  "28. Time": [
+    {
+      "word": "alhamisi",
+      "definition": "Thursday, (on) Thursday"
+    },
+    {
+      "word": "dakika",
+      "definition": "minutes, minute"
+    },
+    {
+      "word": "ijumaa",
+      "definition": "Friday"
+    },
+    {
+      "word": "jumamosi",
+      "definition": "Saturday, on saturday"
+    },
+    {
+      "word": "jumanne",
+      "definition": "Tuesday, On Tuesday"
+    },
+    {
+      "word": "jumapili",
+      "definition": "Sunday, (on) Sunday"
+    },
+    {
+      "word": "jumatano",
+      "definition": "Wednesday"
+    },
+    {
+      "word": "jumatatu",
+      "definition": "Monday"
+    },
+    {
+      "word": "kalenda",
+      "definition": "(the/a) calendar"
+    },
+    {
+      "word": "kamili",
+      "definition": "exactly, :00 (for time), o'clock"
+    },
+    {
+      "word": "karne",
+      "definition": "century"
+    },
+    {
+      "word": "kasoro",
+      "definition": "Less, to(time)"
+    },
+    {
+      "word": "kwa",
+      "definition": "with, for, on, to, by, in"
+    },
+    {
+      "word": "likizo",
+      "definition": "vacation, holiday, vacation/leave/holiday, holidays"
+    },
+    {
+      "word": "mwezi",
+      "definition": "Month"
+    },
+    {
+      "word": "mwongo",
+      "definition": "(the/a) liar, (the/a) decade"
+    },
+    {
+      "word": "nusu",
+      "definition": "Half"
+    },
+    {
+      "word": "pumzika",
+      "definition": "rest"
+    },
+    {
+      "word": "robo",
+      "definition": "Quarter"
+    },
+    {
+      "word": "saa",
+      "definition": "Clock, Time, hour, o'clock, clocks"
+    },
+    {
+      "word": "saa ngapi",
+      "definition": "how many hours, What time?"
+    },
+    {
+      "word": "sasa",
+      "definition": "now"
+    },
+    {
+      "word": "siku",
+      "definition": "(a/the) day, days, day"
+    },
+    {
+      "word": "tarehe",
+      "definition": "date"
+    },
+    {
+      "word": "wiki",
+      "definition": "(the) weeks, (the/a) week"
+    }
+  ],
+  "29. Future Tense": [
+    {
+      "word": "hata",
+      "definition": "even"
+    },
+    {
+      "word": "kesho",
+      "definition": "tomorrow"
+    },
+    {
+      "word": "kesho kutwa",
+      "definition": "the day after tomorrow, in two days"
+    },
+    {
+      "word": "sita",
+      "definition": "six"
+    }
+  ],
+  "30. Immediate Past": [
+    {
+      "word": "huja",
+      "definition": "come/comes, come, (He/She) comes, comes"
+    }
+  ],
+  "31. Body": [
+    {
+      "word": "bega",
+      "definition": "shoulder"
+    },
+    {
+      "word": "chembechembe",
+      "definition": "Cell, cells"
+    },
+    {
+      "word": "damu",
+      "definition": "Blood"
+    },
+    {
+      "word": "ini",
+      "definition": "Liver, The liver"
+    },
+    {
+      "word": "jicho",
+      "definition": "(an/the) eye"
+    },
+    {
+      "word": "jino",
+      "definition": "(the/a) tooth"
+    },
+    {
+      "word": "kichwa",
+      "definition": "Head, (The/A) Head"
+    },
+    {
+      "word": "kidole",
+      "definition": "The (finger/toe], A finger, A toe, finger"
+    },
+    {
+      "word": "kinywa",
+      "definition": "(the/a) mouth"
+    },
+    {
+      "word": "mabega",
+      "definition": "Shoulders"
+    },
+    {
+      "word": "macho",
+      "definition": "Eyes, The eyes"
+    },
+    {
+      "word": "masikio",
+      "definition": "ears"
+    },
+    {
+      "word": "mbavu",
+      "definition": "ribs"
+    },
+    {
+      "word": "mdomo",
+      "definition": "(a/the) lip"
+    },
+    {
+      "word": "meno",
+      "definition": "(the) teeth"
+    },
+    {
+      "word": "mguu",
+      "definition": "(the/a) foot, (the/a) leg, foot"
+    },
+    {
+      "word": "miguu",
+      "definition": "legs, feet, foot"
+    },
+    {
+      "word": "misuli",
+      "definition": "Muscles"
+    },
+    {
+      "word": "mkono",
+      "definition": "(the/an) arm, (the/a) hand"
+    },
+    {
+      "word": "mwili",
+      "definition": "Body, (a/the) body"
+    },
+    {
+      "word": "nusa",
+      "definition": "sniff/smell, sniff"
+    },
+    {
+      "word": "nywele",
+      "definition": "Hair"
+    },
+    {
+      "word": "ona",
+      "definition": "see"
+    },
+    {
+      "word": "paja",
+      "definition": "Thigh, a/the thigh"
+    },
+    {
+      "word": "pua",
+      "definition": "(A/The) nose"
+    },
+    {
+      "word": "shingo",
+      "definition": "Neck, (A/The) neck, (the) Necks"
+    },
+    {
+      "word": "sikia",
+      "definition": "hear, feel"
+    },
+    {
+      "word": "sikio",
+      "definition": "ear, (A/The) ear"
+    },
+    {
+      "word": "tumbo",
+      "definition": "(A/The) stomach"
+    },
+    {
+      "word": "ulimi",
+      "definition": "(A/The) tongue"
+    },
+    {
+      "word": "uso",
+      "definition": "(the/a) face, face"
+    },
+    {
+      "word": "uti wa mgongo",
+      "definition": "The backbone, backbone, spine"
+    },
+    {
+      "word": "vidole",
+      "definition": "digits, (the) fingers, (the) toes"
+    }
+  ],
+  "32. Locatives": [
+    {
+      "word": "chini ya",
+      "definition": "under"
+    },
+    {
+      "word": "dodoma",
+      "definition": "Dodoma"
+    },
+    {
+      "word": "juu ya",
+      "definition": "on top of, on, about"
+    },
+    {
+      "word": "kando ya",
+      "definition": "beside, next to, along"
+    },
+    {
+      "word": "kati ya",
+      "definition": "between, in the middle of"
+    },
+    {
+      "word": "katikati",
+      "definition": "middle, centre/central, between, central"
+    },
+    {
+      "word": "kuna",
+      "definition": "(general place), there is/there are"
+    },
+    {
+      "word": "mna",
+      "definition": "you (pl) have, there is (inside)"
+    },
+    {
+      "word": "ndani",
+      "definition": "inside, in"
+    },
+    {
+      "word": "ni",
+      "definition": "is, am, it is, is it, me, are"
+    },
+    {
+      "word": "nje",
+      "definition": "outside, out"
+    },
+    {
+      "word": "nyuma ya",
+      "definition": "behind"
+    }
+  ],
+  "33. Weather": [
+    {
+      "word": "baridi",
+      "definition": "cold, coldness, cold weather"
+    },
+    {
+      "word": "hali ya hewa",
+      "definition": "Weather, The weather"
+    },
+    {
+      "word": "inanyesha",
+      "definition": "It is/it's raining, It is pouring down"
+    },
+    {
+      "word": "joto",
+      "definition": "(the) heat, (the) hot weather"
+    },
+    {
+      "word": "jua",
+      "definition": "Sun, The sun, know"
+    },
+    {
+      "word": "kiangazi",
+      "definition": "(the/a) dry season, (the) summer"
+    },
+    {
+      "word": "kipupwe",
+      "definition": "windy season, cold season (winter), winter"
+    },
+    {
+      "word": "masika",
+      "definition": "Heavy rainfall, Heavy rain season"
+    },
+    {
+      "word": "mawingu",
+      "definition": "Clouds, The clouds"
+    },
+    {
+      "word": "mvua",
+      "definition": "(the) rain"
+    },
+    {
+      "word": "ngurumo",
+      "definition": "(the) thunder"
+    },
+    {
+      "word": "radi",
+      "definition": "Lightning"
+    },
+    {
+      "word": "theluji",
+      "definition": "(the) snow"
+    },
+    {
+      "word": "upepo",
+      "definition": "Wind, breeze"
+    },
+    {
+      "word": "vuli",
+      "definition": "season of short rains, Autumn/Fall, The season of short rain"
+    }
+  ],
+  "34. Adverbs and Conjunctions": [
+    {
+      "word": "bado",
+      "definition": "Not yet, still, yet"
+    },
+    {
+      "word": "ghafla",
+      "definition": "suddenly"
+    },
+    {
+      "word": "halafu",
+      "definition": "then, afterwards, and then, later"
+    },
+    {
+      "word": "hasa",
+      "definition": "Exactly, Especially"
+    },
+    {
+      "word": "hivyo",
+      "definition": "so, those (Ki/Vi)"
+    },
+    {
+      "word": "kwa bahati",
+      "definition": "luckily, Fortunately"
+    },
+    {
+      "word": "kwa hiyo",
+      "definition": "so, therefore"
+    },
+    {
+      "word": "kwa kawaida",
+      "definition": "usually, normally"
+    },
+    {
+      "word": "kwa kifupi",
+      "definition": "briefly, In short/in summary"
+    },
+    {
+      "word": "kwa kusudi",
+      "definition": "Intentionally"
+    },
+    {
+      "word": "kwa kweli",
+      "definition": "truly, really"
+    },
+    {
+      "word": "kwa sababu",
+      "definition": "because"
+    },
+    {
+      "word": "labda",
+      "definition": "perhaps, maybe"
+    },
+    {
+      "word": "mapema",
+      "definition": "early"
+    },
+    {
+      "word": "mno",
+      "definition": "excessive, excessively, very, a lot"
+    },
+    {
+      "word": "polepole",
+      "definition": "slowly/gently, slowly"
+    },
+    {
+      "word": "sana",
+      "definition": "too, very much, very, a lot, hard"
+    },
+    {
+      "word": "sikuzote",
+      "definition": "always"
+    },
+    {
+      "word": "takriban",
+      "definition": "approximately"
+    },
+    {
+      "word": "taratibu",
+      "definition": "slowly/gently, gently, slowly"
+    },
+    {
+      "word": "tena",
+      "definition": "again"
+    },
+    {
+      "word": "tu",
+      "definition": "only, just"
+    },
+    {
+      "word": "upesi",
+      "definition": "hurriedly, quickly"
+    },
+    {
+      "word": "vigumu",
+      "definition": "tough, toughly, difficultly, difficult, hard"
+    },
+    {
+      "word": "vilevile",
+      "definition": "also, Also/too, too"
+    },
+    {
+      "word": "vizuri",
+      "definition": "well, nicely, good/nice (Ki/Vi), properly"
+    }
+  ],
+  "35. Object Infixes": [
+    {
+      "word": "ni",
+      "definition": "is, am, it is, is it, me, are"
+    },
+    {
+      "word": "tu",
+      "definition": "only, just"
+    },
+    {
+      "word": "wa",
+      "definition": "for, 's, of"
+    },
+    {
+      "word": "ya",
+      "definition": "'s, because, of (-a), for, of (the)"
+    }
+  ],
+  "36. Transportation": [
+    {
+      "word": "baiskeli",
+      "definition": "bicycle, bicycles, (a/the) bicycle/bike"
+    },
+    {
+      "word": "bandari",
+      "definition": "(a/the) port, (a/the) harbor"
+    },
+    {
+      "word": "barabara",
+      "definition": "(the/a) street, (a/the) road, (the) roads, street"
+    },
+    {
+      "word": "basi",
+      "definition": "bus, well then, no more, enough, so, enough/and so, (a/the) bus, and so..."
+    },
+    {
+      "word": "boti",
+      "definition": "Boat"
+    },
+    {
+      "word": "dereva",
+      "definition": "A/the driver, driver"
+    },
+    {
+      "word": "gari",
+      "definition": "(the/a) car, (the/a) vehicle"
+    },
+    {
+      "word": "kituo cha basi",
+      "definition": "bus stop, bus stand"
+    },
+    {
+      "word": "kondakta",
+      "definition": "conductor, a/the conductor"
+    },
+    {
+      "word": "meli",
+      "definition": "Ship, Ships, (a/the) ship"
+    },
+    {
+      "word": "nauli",
+      "definition": "Fare, (the) fare"
+    },
+    {
+      "word": "ndege",
+      "definition": "(a/the) plane, airplane, bird, birds, Planes, (the) aeroplanes, An aeroplane, aeroplanes"
+    },
+    {
+      "word": "pikipiki",
+      "definition": "(a/the) motorcycle, motorcycles"
+    },
+    {
+      "word": "reli",
+      "definition": "Railway"
+    },
+    {
+      "word": "shuka",
+      "definition": "Go/Climb down, Alight"
+    },
+    {
+      "word": "siti",
+      "definition": "Seat, Seats"
+    },
+    {
+      "word": "stesheni",
+      "definition": "(the) stations, (a/the) station"
+    },
+    {
+      "word": "tiketi",
+      "definition": "tickets, (the/a) ticket"
+    },
+    {
+      "word": "treni",
+      "definition": "trains, (a/the) train"
+    },
+    {
+      "word": "usafiri",
+      "definition": "Transport, (a/the) transport, Transportation, travel (n)"
+    },
+    {
+      "word": "uwanja wa ndege",
+      "definition": "Airport"
+    }
+  ],
+  "37. Prepositions and Conjunctions": [
+    {
+      "word": "ama",
+      "definition": "either, either.....or"
+    },
+    {
+      "word": "au",
+      "definition": "or"
+    },
+    {
+      "word": "baada ya",
+      "definition": "after"
+    },
+    {
+      "word": "basi",
+      "definition": "bus, well then, no more, enough, so, enough/and so, (a/the) bus, and so..."
+    },
+    {
+      "word": "dhidi ya",
+      "definition": "against"
+    },
+    {
+      "word": "hadi",
+      "definition": "until"
+    },
+    {
+      "word": "hata",
+      "definition": "even"
+    },
+    {
+      "word": "ila",
+      "definition": "except"
+    },
+    {
+      "word": "ingawa",
+      "definition": "Though, Although, even though"
+    },
+    {
+      "word": "kabla ya",
+      "definition": "before"
+    },
+    {
+      "word": "katika",
+      "definition": "Between/Through, in"
+    },
+    {
+      "word": "kisha",
+      "definition": "then"
+    },
+    {
+      "word": "kwa",
+      "definition": "with, for, on, to, by, in"
+    },
+    {
+      "word": "kwa ajili ya",
+      "definition": "because, on account of, for"
+    },
+    {
+      "word": "kwa maana ya",
+      "definition": "because of, on account of"
+    },
+    {
+      "word": "kwamba",
+      "definition": "that"
+    },
+    {
+      "word": "lakini",
+      "definition": "but"
+    },
+    {
+      "word": "licha ya",
+      "definition": "In addition, besides, even though, In spite of, despite"
+    },
+    {
+      "word": "mbalimbali",
+      "definition": "various, different"
+    },
+    {
+      "word": "miongoni mwa",
+      "definition": "among(st), among"
+    },
+    {
+      "word": "sawasawa",
+      "definition": "Just right, equals, equally, the same, alright"
+    },
+    {
+      "word": "tangu",
+      "definition": "since"
+    },
+    {
+      "word": "toka",
+      "definition": "from"
+    },
+    {
+      "word": "wala",
+      "definition": "neither, Neither/nor, nor"
+    },
+    {
+      "word": "zaidi ya",
+      "definition": "more than, than"
+    }
+  ],
+  "38. Emotions": [
+    {
+      "word": "chelewa",
+      "definition": "late"
+    },
+    {
+      "word": "choka",
+      "definition": "tired"
+    },
+    {
+      "word": "fadhaika",
+      "definition": "distraught"
+    },
+    {
+      "word": "furahi",
+      "definition": "Be happy"
+    },
+    {
+      "word": "huzunika",
+      "definition": "grieving"
+    },
+    {
+      "word": "kasirika",
+      "definition": "angry"
+    },
+    {
+      "word": "shtuka",
+      "definition": "startled"
+    }
+  ],
+  "39. Demonstratives": [
+    {
+      "word": "hawa",
+      "definition": "These (m/wa), these"
+    },
+    {
+      "word": "haya",
+      "definition": "These"
+    },
+    {
+      "word": "hii",
+      "definition": "this, This (N/N), These(M/Mi), these"
+    },
+    {
+      "word": "hiki",
+      "definition": "This (ki/vi), this"
+    },
+    {
+      "word": "hili",
+      "definition": "This (ji/ma), this"
+    },
+    {
+      "word": "hivi",
+      "definition": "These (ki/vi), these"
+    },
+    {
+      "word": "hizi",
+      "definition": "These (n/n), these"
+    },
+    {
+      "word": "huu",
+      "definition": "This (m/mi), this"
+    },
+    {
+      "word": "huyu",
+      "definition": "This (m/wa), this"
+    },
+    {
+      "word": "ile",
+      "definition": "Those (m/mi), That (n/n), that"
+    },
+    {
+      "word": "kile",
+      "definition": "That (ki/vi), that"
+    },
+    {
+      "word": "lile",
+      "definition": "that (ji/ma), that"
+    },
+    {
+      "word": "ule",
+      "definition": "that, that (m/mi), You should eat"
+    },
+    {
+      "word": "vile",
+      "definition": "those (Ki/Vi)"
+    },
+    {
+      "word": "wale",
+      "definition": "Those (m/wa), those, They should eat"
+    },
+    {
+      "word": "yale",
+      "definition": "Those (ji/ma), those"
+    },
+    {
+      "word": "yule",
+      "definition": "That (m/wa), that"
+    },
+    {
+      "word": "zile",
+      "definition": "Those (n/n), Those (u/n), those"
+    }
+  ],
+  "40. School": [
+    {
+      "word": "andalio la somo",
+      "definition": "Lesson plan, a/the lesson plan"
+    },
+    {
+      "word": "anguka",
+      "definition": "Fall down"
+    },
+    {
+      "word": "bendera ya taifa",
+      "definition": "National flag"
+    },
+    {
+      "word": "faulu",
+      "definition": "pass"
+    },
+    {
+      "word": "historia",
+      "definition": "history"
+    },
+    {
+      "word": "jumlisha",
+      "definition": "add"
+    },
+    {
+      "word": "kazi ya ziada",
+      "definition": "homework"
+    },
+    {
+      "word": "kipindi",
+      "definition": "program, a/the period, period, show"
+    },
+    {
+      "word": "kiranja",
+      "definition": "(the/a) prefect, class monitor"
+    },
+    {
+      "word": "mkuu wa shule",
+      "definition": "Head of school, A/the head of school"
+    },
+    {
+      "word": "mtihani",
+      "definition": "exam, (An/The) examination, test"
+    },
+    {
+      "word": "mwalimu mkuu",
+      "definition": "Head teacher, Principal"
+    },
+    {
+      "word": "mwalimu wa darasa",
+      "definition": "Class teacher"
+    },
+    {
+      "word": "mwalimu wa zamu",
+      "definition": "Teacher on duty"
+    },
+    {
+      "word": "nidhamu",
+      "definition": "discipline"
+    },
+    {
+      "word": "pita",
+      "definition": "pass"
+    },
+    {
+      "word": "safi",
+      "definition": "well, amazing, fine, ok, alright, nice, awesome, good, pure, clean"
+    },
+    {
+      "word": "somo",
+      "definition": "(a/the) subject, subject/lesson, subject, lesson, study"
+    },
+    {
+      "word": "somo la baiolojia",
+      "definition": "Biology lesson/subject"
+    },
+    {
+      "word": "somo la fizikia",
+      "definition": "physics"
+    },
+    {
+      "word": "somo la hisabati",
+      "definition": "math"
+    },
+    {
+      "word": "somo la jiografia",
+      "definition": "Geography subject, Geography"
+    },
+    {
+      "word": "somo la kemia",
+      "definition": "chemistry"
+    },
+    {
+      "word": "somo la kingereza",
+      "definition": "English subject/lesson, (An/The) English subject, english"
+    },
+    {
+      "word": "somo la kiswahili",
+      "definition": "Swahili subject/lesson"
+    },
+    {
+      "word": "somo la sayansi",
+      "definition": "Science subject, science"
+    },
+    {
+      "word": "somo la uraia",
+      "definition": "Civics, Civics subject"
+    },
+    {
+      "word": "wimbo wa taifa",
+      "definition": "National anthem"
+    },
+    {
+      "word": "zamu",
+      "definition": "Duty, turn"
+    }
+  ],
+  "41. Food 2": [
+    {
+      "word": "chamcha",
+      "definition": "lunch"
+    },
+    {
+      "word": "jibini",
+      "definition": "cheese"
+    },
+    {
+      "word": "jokofu",
+      "definition": "fridge"
+    },
+    {
+      "word": "kabati",
+      "definition": "cupboard/cabinet, cabinet, cupboard"
+    },
+    {
+      "word": "kata",
+      "definition": "cut"
+    },
+    {
+      "word": "kiokeo",
+      "definition": "oven"
+    },
+    {
+      "word": "kiu",
+      "definition": "thirst"
+    },
+    {
+      "word": "ladha",
+      "definition": "flavor, flavour, taste"
+    },
+    {
+      "word": "mchanganyiko",
+      "definition": "(the/a) mixture, (the/a) mix"
+    },
+    {
+      "word": "nazi",
+      "definition": "coconut"
+    },
+    {
+      "word": "njaa",
+      "definition": "hunger"
+    },
+    {
+      "word": "siagi",
+      "definition": "butter"
+    },
+    {
+      "word": "tufaha",
+      "definition": "apple"
+    },
+    {
+      "word": "uyoga",
+      "definition": "mushroom"
+    }
+  ],
+  "42. Animals 2": [
+    {
+      "word": "bundi",
+      "definition": "owls, owl"
+    },
+    {
+      "word": "kasuku",
+      "definition": "parrot, parrots"
+    },
+    {
+      "word": "kipepeo",
+      "definition": "butterfly"
+    },
+    {
+      "word": "kobe",
+      "definition": "tortoise(s), turtle(s), turtles"
+    },
+    {
+      "word": "mkia",
+      "definition": "tail"
+    },
+    {
+      "word": "pembe",
+      "definition": "horns, horn"
+    },
+    {
+      "word": "popo",
+      "definition": "bat"
+    },
+    {
+      "word": "punda",
+      "definition": "donkey, donkeys"
+    },
+    {
+      "word": "sungura",
+      "definition": "hare(s), rabbit, rabbits, hare"
+    },
+    {
+      "word": "ubawa",
+      "definition": "wing"
+    }
+  ],
+  "43. With": [
+    {
+      "word": "na",
+      "definition": "and, with, to, by, in"
+    },
+    {
+      "word": "nami",
+      "definition": "with me, in relation to me"
+    },
+    {
+      "word": "nanyi",
+      "definition": "with you (pl.)"
+    },
+    {
+      "word": "nao",
+      "definition": "with them, and they (conjunction)"
+    },
+    {
+      "word": "nasi",
+      "definition": "with us, and we (conjunction)"
+    },
+    {
+      "word": "nawe",
+      "definition": "with you"
+    },
+    {
+      "word": "naye",
+      "definition": "to him/her, and (s)he (conjunction), with her, with him, even"
+    },
+    {
+      "word": "pamoja",
+      "definition": "together"
+    }
+  ],
+  "44. Colors": [
+    {
+      "word": "bluu",
+      "definition": "Blue"
+    },
+    {
+      "word": "dhahabu",
+      "definition": "gold, golden"
+    },
+    {
+      "word": "kijani",
+      "definition": "green"
+    },
+    {
+      "word": "kijivu",
+      "definition": "gray"
+    },
+    {
+      "word": "njano",
+      "definition": "Yellow"
+    },
+    {
+      "word": "pinki",
+      "definition": "pink"
+    },
+    {
+      "word": "rangi",
+      "definition": "(the) paint, (the/a) color, (the) colors"
+    },
+    {
+      "word": "zambarau",
+      "definition": "Purple"
+    }
+  ],
+  "45. Mahali Nouns": [
+    {
+      "word": "arusha",
+      "definition": "Arusha, (in) Arusha, (to) Arusha"
+    },
+    {
+      "word": "dar es salaam",
+      "definition": "Dar es Salaam"
+    },
+    {
+      "word": "florida",
+      "definition": "Florida"
+    },
+    {
+      "word": "kenya",
+      "definition": "Kenya"
+    },
+    {
+      "word": "marekani",
+      "definition": "the USA, the US, in the US, America, the United States"
+    },
+    {
+      "word": "toka",
+      "definition": "from"
+    }
+  ],
+  "46. Conditional Tense": [
+    {
+      "word": "ikiwa",
+      "definition": "If"
+    },
+    {
+      "word": "kama",
+      "definition": "as, if, like"
+    },
+    {
+      "word": "lia",
+      "definition": "cry!"
+    }
+  ],
+  "47. Medicine": [
+    {
+      "word": "afya",
+      "definition": "Health, Healthy"
+    },
+    {
+      "word": "ajali",
+      "definition": "Accidents, (the/an) accident"
+    },
+    {
+      "word": "chanjo",
+      "definition": "(the/a) vaccination, (the) vaccinations"
+    },
+    {
+      "word": "cheti cha daktari",
+      "definition": "Doctor's prescription"
+    },
+    {
+      "word": "cheti cha kifo",
+      "definition": "(the/a) death certificate"
+    },
+    {
+      "word": "cheti cha kuzaliwa",
+      "definition": "birth certificate"
+    },
+    {
+      "word": "dalili",
+      "definition": "symptom, symptoms, sign"
+    },
+    {
+      "word": "dawa",
+      "definition": "drug, medicine, drugs"
+    },
+    {
+      "word": "homa ya matumbo",
+      "definition": "typhoid"
+    },
+    {
+      "word": "hospitali",
+      "definition": "hospital"
+    },
+    {
+      "word": "jeraha",
+      "definition": "(the/a) wound"
+    },
+    {
+      "word": "jipu",
+      "definition": "(the/an) abscess, (the/a) boil, abscess"
+    },
+    {
+      "word": "kichomi",
+      "definition": "sharp pain/cramp, pneumonia"
+    },
+    {
+      "word": "kipindupindu",
+      "definition": "cholera"
+    },
+    {
+      "word": "lishe",
+      "definition": "Nutrition"
+    },
+    {
+      "word": "malaria",
+      "definition": "malaria"
+    },
+    {
+      "word": "mgonjwa",
+      "definition": "(the/a) sick person, (the/a) patient"
+    },
+    {
+      "word": "mwuguzi",
+      "definition": "nurse, (a/the) nurse"
+    },
+    {
+      "word": "sindano",
+      "definition": "an injection, injections, (a/the) needle, needles"
+    },
+    {
+      "word": "sumu",
+      "definition": "(the) poison"
+    },
+    {
+      "word": "surua",
+      "definition": "measles"
+    },
+    {
+      "word": "ugonjwa",
+      "definition": "Disease, Illness, Sickness"
+    },
+    {
+      "word": "upasuaji",
+      "definition": "surgery, operation"
+    },
+    {
+      "word": "utapiamlo",
+      "definition": "malnutrition"
+    },
+    {
+      "word": "zahanati",
+      "definition": "Dispensary, (A/The) dispensary"
+    }
+  ],
+  "48. Sports": [
+    {
+      "word": "bao",
+      "definition": "(the/a) goal, board, (the/a) score, (the) goals, goals"
+    },
+    {
+      "word": "filimbi",
+      "definition": "(the/a) whistle, whistle"
+    },
+    {
+      "word": "funga",
+      "definition": "close"
+    },
+    {
+      "word": "goli",
+      "definition": "Goal, a/the goal"
+    },
+    {
+      "word": "kandanda",
+      "definition": "soccer, soccer game/match, football"
+    },
+    {
+      "word": "kiwanja cha michezo",
+      "definition": "Playing ground/field, (the/a) sports field"
+    },
+    {
+      "word": "kuruka kamba",
+      "definition": "to jump rope"
+    },
+    {
+      "word": "ligi",
+      "definition": "League"
+    },
+    {
+      "word": "maarufu",
+      "definition": "famous, popular"
+    },
+    {
+      "word": "magoli",
+      "definition": "goals"
+    },
+    {
+      "word": "mashindano",
+      "definition": "(the/a) competition"
+    },
+    {
+      "word": "mchezaji",
+      "definition": "(the/a) sportsman, (the/a) player, (the/a) sportswoman"
+    },
+    {
+      "word": "mchezo wa bao",
+      "definition": "(the/a) board game"
+    },
+    {
+      "word": "mchezo wa karata",
+      "definition": "(the/a) card game"
+    },
+    {
+      "word": "mechi",
+      "definition": "match"
+    },
+    {
+      "word": "medali",
+      "definition": "(the/a) medal, (the) medals, medals"
+    },
+    {
+      "word": "michezo ya olimpiki",
+      "definition": "(the) Olympic Games"
+    },
+    {
+      "word": "mieleka",
+      "definition": "Wrestling"
+    },
+    {
+      "word": "mpira wa kikapu",
+      "definition": "Basketball"
+    },
+    {
+      "word": "mpira wa meza",
+      "definition": "table tennis"
+    },
+    {
+      "word": "mpira wa pete",
+      "definition": "Netball"
+    },
+    {
+      "word": "mpira wa wavu",
+      "definition": "volleyball"
+    },
+    {
+      "word": "mshindi",
+      "definition": "(the/a) winner"
+    },
+    {
+      "word": "mwamuzi",
+      "definition": "referee"
+    },
+    {
+      "word": "mwanariadha",
+      "definition": "(the/a) athlete"
+    },
+    {
+      "word": "shinda",
+      "definition": "win"
+    },
+    {
+      "word": "shindwa",
+      "definition": "fail"
+    },
+    {
+      "word": "timu",
+      "definition": "(the/a) team, (the) teams"
+    },
+    {
+      "word": "tuzo",
+      "definition": "prize"
+    },
+    {
+      "word": "wachezaji",
+      "definition": "(the) players, (the) sportsmen, (the) sportswomen"
+    }
+  ],
+  "49. Piga Idiom": [
+    {
+      "word": "chafya",
+      "definition": "sneezing"
+    },
+    {
+      "word": "chenga",
+      "definition": "evasion"
+    },
+    {
+      "word": "hapana",
+      "definition": "no"
+    },
+    {
+      "word": "kalamu",
+      "definition": "pen, a/the pen, pens, pencil(s)"
+    },
+    {
+      "word": "kelele",
+      "definition": "noise"
+    },
+    {
+      "word": "kengele",
+      "definition": "bell"
+    },
+    {
+      "word": "magoti",
+      "definition": "knees"
+    },
+    {
+      "word": "mara",
+      "definition": "time, times"
+    },
+    {
+      "word": "marufuku",
+      "definition": "prohibition, a ban"
+    },
+    {
+      "word": "mswaki",
+      "definition": "toothbrush"
+    },
+    {
+      "word": "ndiyo",
+      "definition": "yes"
+    },
+    {
+      "word": "ngumi",
+      "definition": "fist"
+    },
+    {
+      "word": "picha",
+      "definition": "picture"
+    },
+    {
+      "word": "simu",
+      "definition": "phone, telephone, phones, telephones"
+    },
+    {
+      "word": "teke",
+      "definition": "(A/the) kick"
+    }
+  ],
+  "50. Let's Go": [
+    {
+      "word": "kuhusu",
+      "definition": "about, on"
+    },
+    {
+      "word": "tuende",
+      "definition": "let's go"
+    },
+    {
+      "word": "tujifunze",
+      "definition": "let's learn"
+    },
+    {
+      "word": "tukae",
+      "definition": "let's stay, may we dwell"
+    },
+    {
+      "word": "tununue",
+      "definition": "we should buy, let's buy"
+    },
+    {
+      "word": "tupige",
+      "definition": "let's hit, let's"
+    },
+    {
+      "word": "tusome",
+      "definition": "let's study, let's read"
+    },
+    {
+      "word": "tutafute",
+      "definition": "let's seek, let's look for"
+    }
+  ],
+  "51. Family": [
+    {
+      "word": "ami",
+      "definition": "paternal uncle"
+    },
+    {
+      "word": "binamu",
+      "definition": "cousin, cousins"
+    },
+    {
+      "word": "binti",
+      "definition": "daughter, young lady"
+    },
+    {
+      "word": "familia",
+      "definition": "Family, Families"
+    },
+    {
+      "word": "mjomba",
+      "definition": "uncle"
+    },
+    {
+      "word": "mke",
+      "definition": "wife"
+    },
+    {
+      "word": "mkwe",
+      "definition": "in-law"
+    },
+    {
+      "word": "mpwa",
+      "definition": "nibling, nephew/niece, nephew"
+    },
+    {
+      "word": "mume",
+      "definition": "husband"
+    },
+    {
+      "word": "ndugu",
+      "definition": "sibling/siblings, kin"
+    },
+    {
+      "word": "shangazi",
+      "definition": "aunt, aunts"
+    },
+    {
+      "word": "talaka",
+      "definition": "divorce"
+    },
+    {
+      "word": "upande",
+      "definition": "side"
+    }
+  ],
+  "52. Subjunctive 1": [
+    {
+      "word": "heri",
+      "definition": "luck, (the) best, Subj = It is better/best"
+    },
+    {
+      "word": "inafaa",
+      "definition": "It is best/better, It is suitable, should"
+    },
+    {
+      "word": "lazima",
+      "definition": "necessary, must, mandatory"
+    }
+  ],
+  "53. Subjunctive 2": [
+    {
+      "word": "afadhali",
+      "definition": "It is better/it's better, It is better that"
+    },
+    {
+      "word": "je",
+      "definition": "(Preceding interrogative)"
+    },
+    {
+      "word": "leta",
+      "definition": "bring"
+    },
+    {
+      "word": "sharti",
+      "definition": "Must/Obligation"
+    },
+    {
+      "word": "tafadhali",
+      "definition": "please"
+    }
+  ],
+  "54. Countries & Languages": [
+    {
+      "word": "bara",
+      "definition": "continent"
+    },
+    {
+      "word": "jamhuri",
+      "definition": "republic"
+    },
+    {
+      "word": "kiarabu",
+      "definition": "Arabic (language), arabic"
+    },
+    {
+      "word": "lugha",
+      "definition": "language"
+    },
+    {
+      "word": "misri",
+      "definition": "Egypt"
+    },
+    {
+      "word": "mmisri",
+      "definition": "(the/an) Egyptian, egyptian"
+    },
+    {
+      "word": "msumbiji",
+      "definition": "Mozambique"
+    },
+    {
+      "word": "rasmi",
+      "definition": "official"
+    },
+    {
+      "word": "rwanda",
+      "definition": "Rwanda"
+    },
+    {
+      "word": "uganda",
+      "definition": "Uganda"
+    },
+    {
+      "word": "uraia",
+      "definition": "nationality, citizenship"
+    }
+  ],
+  "55. Spirituality": [
+    {
+      "word": "abudu",
+      "definition": "Worship"
+    },
+    {
+      "word": "amini",
+      "definition": "believe"
+    },
+    {
+      "word": "chinja",
+      "definition": "slaughter (imp. sg.), (the/a) sacrifice"
+    },
+    {
+      "word": "dhambi",
+      "definition": "sin, a sin"
+    },
+    {
+      "word": "ibada",
+      "definition": "Worship/rites, Religious service, services"
+    },
+    {
+      "word": "imani",
+      "definition": "Beliefs, Belief, Faith/trust, faith"
+    },
+    {
+      "word": "kafara",
+      "definition": "(the/an) offering, offering, (the/a) sacrifice, sacrifice"
+    },
+    {
+      "word": "madhabahu",
+      "definition": "Altar"
+    },
+    {
+      "word": "majini",
+      "definition": "(the) genies, (the) djinns, djinns, in (the) water"
+    },
+    {
+      "word": "malaika",
+      "definition": "Angel/angels, angel"
+    },
+    {
+      "word": "mapepo",
+      "definition": "Demons"
+    },
+    {
+      "word": "mashetani",
+      "definition": "wicked people, devils, demons, Satan"
+    },
+    {
+      "word": "matambiko",
+      "definition": "Rituals"
+    },
+    {
+      "word": "mbingu",
+      "definition": "heaven"
+    },
+    {
+      "word": "mimbari",
+      "definition": "Pulpit"
+    },
+    {
+      "word": "motoni",
+      "definition": "Hell, (in/to/at) hell"
+    },
+    {
+      "word": "msahafu",
+      "definition": "Holy book, Quran, (A/The) Holy book/Quran"
+    },
+    {
+      "word": "msalaba",
+      "definition": "(the/a) cross, cross"
+    },
+    {
+      "word": "mswala",
+      "definition": "(a/the) prayer mat"
+    },
+    {
+      "word": "mtume muhamad",
+      "definition": "Prophet Muhammad"
+    },
+    {
+      "word": "mungu",
+      "definition": "God/Allah, god"
+    },
+    {
+      "word": "mzimu",
+      "definition": "(the/a) ghost, (the/a) spirit"
+    },
+    {
+      "word": "peponi",
+      "definition": "(in/to/at)paradise, (the/a) paradise"
+    },
+    {
+      "word": "roga",
+      "definition": "bewitch"
+    },
+    {
+      "word": "roho",
+      "definition": "spirit, kindness, kind"
+    },
+    {
+      "word": "sadaka",
+      "definition": "Offerings, Alms"
+    },
+    {
+      "word": "sali",
+      "definition": "Pray"
+    },
+    {
+      "word": "tasbihi",
+      "definition": "(the) prayer beads, (the/a) rosary, rosary"
+    },
+    {
+      "word": "thawabu",
+      "definition": "Spiritual reward/gift"
+    },
+    {
+      "word": "uchawi",
+      "definition": "Witchcraft"
+    },
+    {
+      "word": "uislamu",
+      "definition": "Islam"
+    },
+    {
+      "word": "ukristo",
+      "definition": "Christianity"
+    },
+    {
+      "word": "ushirikina",
+      "definition": "superstitions, superstition"
+    },
+    {
+      "word": "waislamu",
+      "definition": "muslims, muslim"
+    },
+    {
+      "word": "yesu kristo",
+      "definition": "Jesus christ"
+    }
+  ],
+  "56. Directions": [
+    {
+      "word": "kaskazini",
+      "definition": "north"
+    },
+    {
+      "word": "kati",
+      "definition": "between, middle"
+    },
+    {
+      "word": "kulia",
+      "definition": "crying, cries, right (adj), cry, to cry, right"
+    },
+    {
+      "word": "kushoto",
+      "definition": "left (adj), left"
+    },
+    {
+      "word": "kusini",
+      "definition": "south"
+    },
+    {
+      "word": "magharibi",
+      "definition": "west/western, west"
+    },
+    {
+      "word": "mashariki",
+      "definition": "east/eastern, east"
+    },
+    {
+      "word": "mbali",
+      "definition": "far"
+    },
+    {
+      "word": "moja kwa moja",
+      "definition": "straight ahead"
+    },
+    {
+      "word": "njia",
+      "definition": "path, road, paths"
+    },
+    {
+      "word": "ramani",
+      "definition": "map, maps"
+    }
+  ],
+  "57. Politics": [
+    {
+      "word": "askari",
+      "definition": "(the/a) soldier, (the/a) police officer, (the) soldiers, soldiers, officer"
+    },
+    {
+      "word": "balozi",
+      "definition": "high commissioner, ambassador, ten-cell leader"
+    },
+    {
+      "word": "bunge",
+      "definition": "(the/a) parliament"
+    },
+    {
+      "word": "chagua",
+      "definition": "choose, select"
+    },
+    {
+      "word": "demokrasia",
+      "definition": "democratic, (the/a) democracy"
+    },
+    {
+      "word": "diwani",
+      "definition": "(the/a) councillor"
+    },
+    {
+      "word": "hotuba",
+      "definition": "Speech, a/the speech"
+    },
+    {
+      "word": "kampeni",
+      "definition": "(the/a) campaign, (the) campaigns"
+    },
+    {
+      "word": "kenyatta",
+      "definition": "Kenyatta"
+    },
+    {
+      "word": "kura",
+      "definition": "(the/a) ballot, (the) votes, (the/a) vote, (the) ballot, vote"
+    },
+    {
+      "word": "mapinduzi",
+      "definition": "(the/a) revolution, upheaval"
+    },
+    {
+      "word": "mbunge",
+      "definition": "Member of Parliament"
+    },
+    {
+      "word": "meya",
+      "definition": "(the/a) mayor"
+    },
+    {
+      "word": "mwanasiasa",
+      "definition": "(the/a) politician"
+    },
+    {
+      "word": "nyerere",
+      "definition": "Nyerere"
+    },
+    {
+      "word": "rais",
+      "definition": "(the/a) president"
+    },
+    {
+      "word": "serikali",
+      "definition": "(the/a) government"
+    },
+    {
+      "word": "siasa",
+      "definition": "political, (the) politics"
+    },
+    {
+      "word": "ubalozi",
+      "definition": "Embassy"
+    },
+    {
+      "word": "uchaguzi",
+      "definition": "(the/an) election"
+    },
+    {
+      "word": "usalama",
+      "definition": "(the) safety, (the) security, safety"
+    },
+    {
+      "word": "vita",
+      "definition": "(the) wars, (the/a) war"
+    },
+    {
+      "word": "wananchi",
+      "definition": "(the) citizens"
+    },
+    {
+      "word": "waziri",
+      "definition": "Minister, a/the minister"
+    },
+    {
+      "word": "wizara",
+      "definition": "(the/a) ministry, (the) ministries"
+    }
+  ],
+  "58. Reciprocal Verbs": [
+    {
+      "word": "ana",
+      "definition": "he has, she has, has"
+    },
+    {
+      "word": "na",
+      "definition": "and, with, to, by, in"
+    }
+  ],
+  "59. Science": [
+    {
+      "word": "asidi",
+      "definition": "Acid"
+    },
+    {
+      "word": "atomu",
+      "definition": "atom, atoms"
+    },
+    {
+      "word": "elektroni",
+      "definition": "electronic, electrons, (the/an) electron"
+    },
+    {
+      "word": "elementi",
+      "definition": "elements, (the/an) element"
+    },
+    {
+      "word": "fomyula",
+      "definition": "formula"
+    },
+    {
+      "word": "gesi",
+      "definition": "(the/a) gas, gases"
+    },
+    {
+      "word": "haidrojeni",
+      "definition": "Hydrogen"
+    },
+    {
+      "word": "hewa",
+      "definition": "air, gas"
+    },
+    {
+      "word": "jaribio",
+      "definition": "(the/a) test, (the/an) experiment, experiment, test"
+    },
+    {
+      "word": "kaboni",
+      "definition": "carbon"
+    },
+    {
+      "word": "kemikali",
+      "definition": "(the) chemicals, chemical"
+    },
+    {
+      "word": "maabara",
+      "definition": "laboratory, (the/a) laboratory, (the) laboratories, lab"
+    },
+    {
+      "word": "molekuli",
+      "definition": "Molecule, molecules"
+    },
+    {
+      "word": "mvutano",
+      "definition": "gravity/force, tension/struggle, tension"
+    },
+    {
+      "word": "nadharia",
+      "definition": "theories, Theory/Theories, theory"
+    },
+    {
+      "word": "nadharia tete",
+      "definition": "Hypothesis/Hypotheses, hypotheses"
+    },
+    {
+      "word": "nishati",
+      "definition": "Energy"
+    },
+    {
+      "word": "nitrojeni",
+      "definition": "Nitrogen"
+    },
+    {
+      "word": "nutroni",
+      "definition": "neutron, neutrons"
+    },
+    {
+      "word": "nyukliasi",
+      "definition": "nucleus"
+    },
+    {
+      "word": "oksijeni",
+      "definition": "Oxygen"
+    },
+    {
+      "word": "pima",
+      "definition": "examine!, diagnose, check, test!, weigh"
+    },
+    {
+      "word": "protoni",
+      "definition": "protons, (the/a) proton"
+    },
+    {
+      "word": "roketi",
+      "definition": "(the/a) rocket, (the) rockets"
+    },
+    {
+      "word": "sayansi",
+      "definition": "Science"
+    },
+    {
+      "word": "sayari",
+      "definition": "Planet/planets, planets, planet"
+    },
+    {
+      "word": "teknolojia",
+      "definition": "Technology, Technologies"
+    },
+    {
+      "word": "tofautisha",
+      "definition": "differentiate, compare"
+    },
+    {
+      "word": "tungamo",
+      "definition": "Mass"
+    },
+    {
+      "word": "uchanganuzi",
+      "definition": "(the/an) analysis"
+    },
+    {
+      "word": "ulinganifu",
+      "definition": "Analogy/harmony, correspondence, analogy"
+    },
+    {
+      "word": "uwiano",
+      "definition": "Ratio"
+    },
+    {
+      "word": "uzito",
+      "definition": "weight"
+    }
+  ],
+  "60. Tourism": [
+    {
+      "word": "darubini",
+      "definition": "(the/a) telescope, binoculars"
+    },
+    {
+      "word": "iba",
+      "definition": "Steal, rob"
+    },
+    {
+      "word": "kibali cha kazi",
+      "definition": "work permit"
+    },
+    {
+      "word": "maasai mara",
+      "definition": "Maasai Mara"
+    },
+    {
+      "word": "manyara",
+      "definition": "Manyara, (to/in) Manyara"
+    },
+    {
+      "word": "mbuga",
+      "definition": "(the/a) grassland, (the/a) park, parks, grasslands"
+    },
+    {
+      "word": "mizigo",
+      "definition": "luggage, baggage, loads"
+    },
+    {
+      "word": "mlima",
+      "definition": "Mountain, mount, hill"
+    },
+    {
+      "word": "mlima kilimanjaro",
+      "definition": "Mount Kilimanjaro"
+    },
+    {
+      "word": "mtalii",
+      "definition": "(the/a) tourist"
+    },
+    {
+      "word": "mtembeza watalii",
+      "definition": "Tour guide"
+    },
+    {
+      "word": "mwizi",
+      "definition": "(the/a) thief"
+    },
+    {
+      "word": "ngorongoro",
+      "definition": "Ngorongoro, (to) Ngorongoro"
+    },
+    {
+      "word": "nyaraka",
+      "definition": "documents/archives, documents"
+    },
+    {
+      "word": "pasipoti",
+      "definition": "(the/a) passport, (the) passports"
+    },
+    {
+      "word": "polisi",
+      "definition": "(the/a) police officer, (the) police, (the) police officers, (the/a) policeman"
+    },
+    {
+      "word": "pora",
+      "definition": "rob/snatch/grab, snatch, steal, rob"
+    },
+    {
+      "word": "serengeti",
+      "definition": "the Serengeti"
+    },
+    {
+      "word": "uhamiaji",
+      "definition": "immigration"
+    },
+    {
+      "word": "ukaguzi",
+      "definition": "Inspection/audit, inspection"
+    },
+    {
+      "word": "utalii",
+      "definition": "(the) tourism"
+    },
+    {
+      "word": "uwindaji haramu",
+      "definition": "poaching"
+    },
+    {
+      "word": "viza",
+      "definition": "(the/a) visa, visas"
+    },
+    {
+      "word": "watalii",
+      "definition": "(the) tourists"
+    }
+  ],
+  "61. Verbs 2": [
+    {
+      "word": "isha",
+      "definition": "finished"
+    },
+    {
+      "word": "za",
+      "definition": "za - plural (of/for), of (-a), of, of (the)"
+    }
+  ],
+  "62. Habitual Tense": [
+    {
+      "word": "huandika",
+      "definition": "writes, Write/writes, write, (He/She) writes"
+    },
+    {
+      "word": "hucheza",
+      "definition": "dance/dances to, dances, He/She dances, Play/plays, play"
+    },
+    {
+      "word": "huchora",
+      "definition": "He/She draws, draws, draw"
+    },
+    {
+      "word": "huimba",
+      "definition": "(He/She) sings, sing"
+    },
+    {
+      "word": "huishi",
+      "definition": "(He/She) lives, lives, to live"
+    },
+    {
+      "word": "huja",
+      "definition": "come/comes, come, (He/She) comes, comes"
+    },
+    {
+      "word": "hujifunza",
+      "definition": "learn/learns, learns, learn"
+    },
+    {
+      "word": "hukimbia",
+      "definition": "runs/run, runs"
+    },
+    {
+      "word": "hula",
+      "definition": "eats, Eat/eats, eat, He/She eats"
+    },
+    {
+      "word": "hulala",
+      "definition": "sleep, Sleep/sleeps, (He/She) sleeps, sleeps"
+    },
+    {
+      "word": "hunywa",
+      "definition": "drinks, Drink/drinks, He/She drinks"
+    },
+    {
+      "word": "hupenda",
+      "definition": "likes, likes/loves, like/love, like, (He/She) (loves/likes)"
+    },
+    {
+      "word": "hupika",
+      "definition": "cooks, (He/She) cooks, cook, usually cooks"
+    },
+    {
+      "word": "husafiri",
+      "definition": "He/She travels, travel, Travels/travel, travels"
+    },
+    {
+      "word": "husafisha",
+      "definition": "He/She cleans, cleans, clean"
+    },
+    {
+      "word": "husikiliza",
+      "definition": "(He/She) Listens, listens/listen, listens, listen"
+    },
+    {
+      "word": "husoma",
+      "definition": "They read, They study, read, He/She reads, reads"
+    },
+    {
+      "word": "hutayarisha",
+      "definition": "(He/She) prepares, prepares, Prepare/prepares, prepare"
+    },
+    {
+      "word": "hutengeneza",
+      "definition": "makes, make/makes, He/She makes"
+    },
+    {
+      "word": "kila siku",
+      "definition": "every day/daily"
+    },
+    {
+      "word": "kila wakati",
+      "definition": "Every time, all the time (always)"
+    }
+  ],
+  "63. Conditional 2": [
+    {
+      "word": "nge",
+      "definition": "scorpions, (the/a) scorpion"
+    }
+  ],
+  "64. Life & Death": [
+    {
+      "word": "hai",
+      "definition": "alive"
+    },
+    {
+      "word": "hatari",
+      "definition": "dangerous"
+    },
+    {
+      "word": "kijana",
+      "definition": "young person, teenager/adolescent, teenager"
+    },
+    {
+      "word": "kwangu",
+      "definition": "My (Mahali possessive), to me, at my house/place, my"
+    },
+    {
+      "word": "maisha",
+      "definition": "life"
+    },
+    {
+      "word": "mjane",
+      "definition": "widow/widower, widower, widow"
+    },
+    {
+      "word": "muhimu",
+      "definition": "important"
+    },
+    {
+      "word": "mzee",
+      "definition": "elderly, old man/woman, old (adj)"
+    },
+    {
+      "word": "yatima",
+      "definition": "orphan"
+    }
+  ],
+  "65. Holidays": [
+    {
+      "word": "harusi",
+      "definition": "wedding, the wedding"
+    },
+    {
+      "word": "idd el fitr",
+      "definition": "Eid-el-fitr"
+    },
+    {
+      "word": "iddi-el-hadj",
+      "definition": "Eid al-Adha"
+    },
+    {
+      "word": "ijumaa kuu",
+      "definition": "Holy Friday, (on) Holy Friday"
+    },
+    {
+      "word": "jando",
+      "definition": "Circumcision rites"
+    },
+    {
+      "word": "krismasi",
+      "definition": "Christmas, (on) Christmas"
+    },
+    {
+      "word": "maulid",
+      "definition": "maulid, Mawlid"
+    },
+    {
+      "word": "maulidi",
+      "definition": "Mawlid, (on) Mawlid"
+    },
+    {
+      "word": "mei mosi",
+      "definition": "Workers' Day, May Day, Labor Day"
+    },
+    {
+      "word": "muungano",
+      "definition": "union/confederation, union"
+    },
+    {
+      "word": "mwaka mpya",
+      "definition": "(the/a) new year, (on) New Year's"
+    },
+    {
+      "word": "nanenane",
+      "definition": "Farmers' day"
+    },
+    {
+      "word": "pasaka",
+      "definition": "Easter"
+    },
+    {
+      "word": "sherehe",
+      "definition": "celebration, (the/a) ceremony, (the/a) celebration, party"
+    },
+    {
+      "word": "sikukuu",
+      "definition": "(the/a) festival, (the/a) holiday, holiday"
+    },
+    {
+      "word": "unyago",
+      "definition": "girls' initiation"
+    }
+  ],
+  "66. Self": [
+    {
+      "word": "kioo",
+      "definition": "(the/a) mirror, (the) glass"
+    }
+  ],
+  "67. Nature": [
+    {
+      "word": "anga",
+      "definition": "space, air"
+    },
+    {
+      "word": "bahari",
+      "definition": "ocean, the sea"
+    },
+    {
+      "word": "bonde",
+      "definition": "valley"
+    },
+    {
+      "word": "jangwa",
+      "definition": "desert"
+    },
+    {
+      "word": "mbuyu",
+      "definition": "Baobab (tree)"
+    },
+    {
+      "word": "mchanga",
+      "definition": "soil"
+    },
+    {
+      "word": "mmomonyoko wa ardhi",
+      "definition": "soil erosion"
+    },
+    {
+      "word": "msitu",
+      "definition": "forest"
+    },
+    {
+      "word": "nyasi",
+      "definition": "(the) grass, grass"
+    },
+    {
+      "word": "pwani",
+      "definition": "the coast"
+    },
+    {
+      "word": "wakati",
+      "definition": "time"
+    },
+    {
+      "word": "ziwa",
+      "definition": "lake"
+    }
+  ],
+  "68. Language": [
+    {
+      "word": "hadithi",
+      "definition": "story/stories, )A /The)story/stories, stories, story"
+    },
+    {
+      "word": "herufi",
+      "definition": "letter/letters (alphabet)"
+    },
+    {
+      "word": "kamusi",
+      "definition": "dictionary, dictionaries"
+    },
+    {
+      "word": "neno",
+      "definition": "word"
+    },
+    {
+      "word": "orodha",
+      "definition": "list"
+    },
+    {
+      "word": "sauti",
+      "definition": "(the) volume, (the/a) voice"
+    },
+    {
+      "word": "sura",
+      "definition": "chapter, chapters"
+    },
+    {
+      "word": "tovuti",
+      "definition": "website, website/websites, websites"
+    },
+    {
+      "word": "ushairi",
+      "definition": "poem"
+    }
+  ],
+  "69. Relatives": [
+    {
+      "word": "kuliko",
+      "definition": "More than/Above, than"
+    },
+    {
+      "word": "sawa na",
+      "definition": "the same as"
+    },
+    {
+      "word": "zaidi",
+      "definition": "more, more than"
+    }
+  ],
+  "70. Figures of Speech": [
+    {
+      "word": "nahau",
+      "definition": "Idioms"
+    },
+    {
+      "word": "sitiari",
+      "definition": "Metaphor"
+    },
+    {
+      "word": "tafsida",
+      "definition": "Euphemism"
+    },
+    {
+      "word": "tanakali sauti",
+      "definition": "Onomatopoeia"
+    },
+    {
+      "word": "tashibiha",
+      "definition": "(the/a) simile"
+    },
+    {
+      "word": "tashihisi",
+      "definition": "Personification"
+    }
+  ],
+  "71. Politics 2": [
+    {
+      "word": "amani",
+      "definition": "Peace"
+    },
+    {
+      "word": "chama",
+      "definition": "association, party (political), party"
+    },
+    {
+      "word": "jeshi",
+      "definition": "(the) military"
+    },
+    {
+      "word": "kuwa",
+      "definition": "to be, being, be, that"
+    },
+    {
+      "word": "maandamano",
+      "definition": "protests, demonstrations"
+    },
+    {
+      "word": "mfalme",
+      "definition": "(the/a) king"
+    },
+    {
+      "word": "raia",
+      "definition": "citizens"
+    },
+    {
+      "word": "ufalme",
+      "definition": "(the/a) kingdom"
+    },
+    {
+      "word": "ufisadi",
+      "definition": "(the) corruption"
+    },
+    {
+      "word": "uhuru",
+      "definition": "independence, freedom, liberty"
+    }
+  ]
+}

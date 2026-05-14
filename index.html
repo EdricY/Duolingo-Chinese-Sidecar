@@ -39,6 +39,11 @@
             align-items: center;
             min-height: 100%;
             padding: 20px;
+            transition: justify-content 0.3s ease;
+        }
+
+        body.quiz-mode {
+            justify-content: center;
         }
 
         header {
@@ -72,11 +77,13 @@
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             gap: 12px;
+            min-height: 400px;
             max-height: 400px;
             overflow-y: auto;
             padding: 10px;
             border: 1px solid #eee;
             border-radius: 12px;
+            background: #fafafa;
         }
 
         .group-item {
@@ -314,13 +321,27 @@
 <body>
 
     <header>
-        <h1>Duolingo Flashcards</h1>
-        <p>Master your Chinese vocabulary</p>
+        <h1 id="main-title">Duolingo Flashcards</h1>
+        <p id="sub-title">Master your Chinese vocabulary</p>
     </header>
 
     <div class="container fade-in">
         <!-- Setup Screen -->
         <div id="setup-screen">
+            <div id="language-selector" style="margin-bottom: 20px;">
+                <h2>Select Language</h2>
+                <div style="display: flex; gap: 20px; background: #eee; padding: 10px; border-radius: 12px;">
+                    <label style="display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                        <input type="radio" name="language" value="chinese" checked onchange="handleLanguageChange('chinese')"> 
+                        <span style="font-weight: 600;">Chinese</span>
+                    </label>
+                    <label style="display: flex; align-items: center; gap: 8px; cursor: pointer;">
+                        <input type="radio" name="language" value="swahili" onchange="handleLanguageChange('swahili')"> 
+                        <span style="font-weight: 600;">Swahili</span>
+                    </label>
+                </div>
+            </div>
+
             <h2>Select Groups to Quiz</h2>
             <div class="controls" style="justify-content: flex-start; margin-bottom: 10px;">
                 <button class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem;"
@@ -330,7 +351,7 @@
             </div>
             <div class="group-list" id="group-list">
                 <!-- Groups will be populated here -->
-                <p>Loading groups...</p>
+                <p style="grid-column: 1/-1; text-align: center; padding-top: 150px; color: #777;">Loading groups...</p>
             </div>
             <div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
                 <div style="display: flex; gap: 10px; align-items: center;">
@@ -352,6 +373,17 @@
             </div>
             <div class="stats" id="stats">Card 1 of 10</div>
 
+            <div style="display: flex; gap: 30px; align-items: center; justify-content: center; flex-wrap: wrap;">
+                <div style="display: flex; gap: 10px; align-items: center;">
+                    <input type="checkbox" id="auto-speak" onchange="saveSettings(); if(this.checked) speakWord()">
+                    <label for="auto-speak" id="auto-speak-label" style="user-select: none; cursor: pointer;">Auto-speak</label>
+                </div>
+                <a id="translate-link" href="#" target="_blank" class="translate-link">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></svg>
+                    Google Translate
+                </a>
+            </div>
+
             <div class="flashcard-container" onclick="flipCard()">
                 <div class="flashcard" id="flashcard">
                     <div class="card-face card-front">
@@ -363,17 +395,6 @@
                 </div>
             </div>
 
-            <div style="display: flex; gap: 30px; align-items: center; justify-content: center; flex-wrap: wrap;">
-                <div style="display: flex; gap: 10px; align-items: center;">
-                    <input type="checkbox" id="auto-speak" onchange="saveSettings(); if(this.checked) speakWord()">
-                    <label for="auto-speak" style="user-select: none; cursor: pointer;">Auto-speak Chinese</label>
-                </div>
-                
-                <a id="translate-link" href="#" target="_blank" class="translate-link">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></svg>
-                    Google Translate
-                </a>
-            </div>
 
             <div class="controls">
                 <button class="btn btn-secondary" onclick="prevCard()">Previous</button>
@@ -388,15 +409,61 @@
         let quizWords = [];
         let currentIndex = 0;
         let lastChecked = null;
+        let currentLanguage = 'chinese';
+
+        const languageConfigs = {
+            chinese: {
+                file: 'words-chinese.json',
+                speechCode: 'zh-CN',
+                translateCode: 'zh-CN',
+                title: 'Chinese Flashcards',
+                subtitle: 'Master your Chinese vocabulary',
+                speakLabel: 'Auto-speak Chinese'
+            },
+            swahili: {
+                file: 'words-swahili.json',
+                speechCode: 'sw-TZ',
+                translateCode: 'sw',
+                title: 'Swahili Flashcards',
+                subtitle: 'Master your Swahili vocabulary',
+                speakLabel: 'Auto-speak Swahili'
+            }
+        };
 
         async function loadWords() {
+            const savedLang = localStorage.getItem('currentLanguage') || 'chinese';
+            const radio = document.querySelector(`input[name="language"][value="${savedLang}"]`);
+            if (radio) radio.checked = true;
+            
+            await handleLanguageChange(savedLang, false);
+        }
+
+        async function handleLanguageChange(lang, shouldSave = true) {
+            currentLanguage = lang;
+            if (shouldSave) {
+                localStorage.setItem('currentLanguage', lang);
+                // Clear selected groups when changing language
+                localStorage.removeItem('selectedGroups');
+            }
+
+            const config = languageConfigs[lang];
+            
+            // Update UI text
+            document.getElementById('main-title').textContent = config.title;
+            document.getElementById('sub-title').textContent = config.subtitle;
+            document.getElementById('auto-speak-label').textContent = config.speakLabel;
+            document.title = config.title + ' - Duolingo Sidecar';
+
+            const groupList = document.getElementById('group-list');
+            groupList.innerHTML = '<p style="grid-column: 1/-1; text-align: center; padding-top: 150px; color: #777;">Loading groups...</p>';
+
             try {
-                const response = await fetch('words.json');
+                const response = await fetch(config.file);
                 allWords = await response.json();
                 populateGroups();
             } catch (error) {
                 console.error('Error loading words:', error);
-                document.getElementById('group-list').innerHTML = '<p>Error loading words.json. Make sure it exists in the same directory.</p>';
+                groupList.innerHTML = `<p>Error loading ${config.file}. Make sure it exists in the same directory.</p>`;
             }
         }
 
@@ -504,6 +571,13 @@
         function showScreen(screenId) {
             document.getElementById('setup-screen').style.display = screenId === 'setup-screen' ? 'flex' : 'none';
             document.getElementById('quiz-screen').style.display = screenId === 'quiz-screen' ? 'flex' : 'none';
+            document.querySelector('header').style.display = screenId === 'setup-screen' ? 'block' : 'none';
+            
+            if (screenId === 'quiz-screen') {
+                document.body.classList.add('quiz-mode');
+            } else {
+                document.body.classList.remove('quiz-mode');
+            }
         }
 
         let updateTimeout = null;
@@ -519,14 +593,16 @@
             const frontFace = flashcard.querySelector('.card-front');
             const backFace = flashcard.querySelector('.card-back');
 
-            const chineseHTML = `<div class="word">${wordObj.word}</div><div class="pinyin">${wordObj.pinyin}</div>`;
+            const config = languageConfigs[currentLanguage];
+            const pinyinHTML = wordObj.pinyin ? `<div class="pinyin">${wordObj.pinyin}</div>` : '';
+            const wordHTML = `<div class="word">${wordObj.word}</div>${pinyinHTML}`;
             const definitionHTML = `<div class="definition">${wordObj.definition}</div>`;
 
             // Always update front immediately
-            frontFace.innerHTML = defFirst ? definitionHTML : chineseHTML;
+            frontFace.innerHTML = defFirst ? definitionHTML : wordHTML;
 
             const updateBack = () => {
-                backFace.innerHTML = defFirst ? chineseHTML : definitionHTML;
+                backFace.innerHTML = defFirst ? wordHTML : definitionHTML;
             };
 
             if (isFlipped) {
@@ -541,13 +617,13 @@
             }
 
             if (document.getElementById('auto-speak').checked && !defFirst) {
-                // Speak immediately if Chinese is on front
+                // Speak immediately if word is on front
                 setTimeout(speakWord, 100);
             }
 
             // Update translate link
             const translateLink = document.getElementById('translate-link');
-            translateLink.href = `https://translate.google.com/?sl=zh-CN&tl=en&text=${encodeURIComponent(wordObj.word)}&op=translate`;
+            translateLink.href = `https://translate.google.com/?sl=${config.translateCode}&tl=en&text=${encodeURIComponent(wordObj.word)}&op=translate`;
 
             // Update stats & progress
             document.getElementById('stats').textContent = `Card ${currentIndex + 1} of ${quizWords.length}`;
@@ -564,8 +640,8 @@
             const autoSpeak = document.getElementById('auto-speak').checked;
 
             if (autoSpeak) {
-                const showingChinese = (defFirst && isFlipped) || (!defFirst && !isFlipped);
-                if (showingChinese) {
+                const showingWord = (defFirst && isFlipped) || (!defFirst && !isFlipped);
+                if (showingWord) {
                     speakWord();
                 }
             }
@@ -578,11 +654,11 @@
             // Stop any current speech
             window.speechSynthesis.cancel();
 
+            const config = languageConfigs[currentLanguage];
             const utterance = new SpeechSynthesisUtterance(wordObj.word);
-            utterance.lang = 'zh-CN';
+            utterance.lang = config.speechCode;
             utterance.rate = 0.9; // Slightly slower for better clarity
 
-            // Try to find a better voice if possible, but zh-CN is the key
             window.speechSynthesis.speak(utterance);
         }
 
