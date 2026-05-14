@@ -99,9 +99,11 @@
             user-select: none;
         }
 
-        .group-item:hover {
-            border-color: var(--primary);
-            background: #f0fff0;
+        @media (hover: hover) {
+            .group-item:hover {
+                border-color: var(--primary);
+                background: #f0fff0;
+            }
         }
 
         .group-item.selected {
@@ -133,9 +135,11 @@
             letter-spacing: 1px;
         }
 
-        .btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 0 var(--primary-dark);
+        @media (hover: hover) {
+            .btn:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 6px 0 var(--primary-dark);
+            }
         }
 
         .btn:active {
@@ -148,8 +152,10 @@
             box-shadow: 0 4px 0 #1899d6;
         }
 
-        .btn-secondary:hover {
-            box-shadow: 0 6px 0 #1899d6;
+        @media (hover: hover) {
+            .btn-secondary:hover {
+                box-shadow: 0 6px 0 #1899d6;
+            }
         }
 
         .btn-secondary:active {
@@ -216,11 +222,13 @@
             font-size: 4rem;
             margin-bottom: 10px;
             font-weight: 700;
+            text-align: center;
         }
 
         .pinyin {
             font-size: 1.5rem;
             color: #777;
+            text-align: center;
         }
 
         .definition {
@@ -271,8 +279,10 @@
             transition: var(--transition);
         }
 
-        .translate-link:hover {
-            color: var(--primary);
+        @media (hover: hover) {
+            .translate-link:hover {
+                color: var(--primary);
+            }
         }
 
         .translate-link svg {

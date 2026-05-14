@@ -2,11 +2,12 @@
 https://edricy.github.io/Duolingo-Chinese-Sidecar
 
 A web-based flashcard tool for studying Chinese vocabulary from Duolingo.  
-I made this because I wanted to review vocabulary from the Duolingo Chinese course and there's not a good, extensive way to do that.
+I made this because I wanted to review vocabulary from the Duolingo Chinese course and there's not a good, extensive way to do that in the app.
 
 ## TODO:
 - shorten extremely long definitions (like 不)
 - remove duplicates if chosen sections contain them
+- maybe change repo name to not have "Chinese" in the title
 
 ## Many Thanks
 - https://www.duolingo.com/
