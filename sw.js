@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sidecar-cache-v1';
+const CACHE_NAME = 'duoflashcards-cache-v1';
 const urlsToCache = [
   './',
   './index.html',

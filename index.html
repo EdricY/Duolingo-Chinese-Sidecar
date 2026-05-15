@@ -4,10 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chinese Flashcards - Duolingo Sidecar</title>
+    <title>Duolingo Flashcards</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#58cc02">
     <link rel="apple-touch-icon" href="icon.svg">
+    <link rel="icon" type="image/svg+xml" href="icon.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -24,7 +25,9 @@
             --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
-        *, *::before, *::after {
+        *,
+        *::before,
+        *::after {
             box-sizing: border-box;
         }
 
@@ -61,6 +64,7 @@
         }
 
         .container {
+            margin-block: auto;
             width: 100%;
             max-width: 800px;
             background: white;
@@ -345,11 +349,12 @@
                 <h2>Select Language</h2>
                 <div style="display: flex; gap: 20px; background: #eee; padding: 10px; border-radius: 12px;">
                     <label style="display: flex; align-items: center; gap: 8px; cursor: pointer;">
-                        <input type="radio" name="language" value="chinese" checked onchange="handleLanguageChange('chinese')"> 
+                        <input type="radio" name="language" value="chinese" checked
+                            onchange="handleLanguageChange('chinese')">
                         <span style="font-weight: 600;">Chinese</span>
                     </label>
                     <label style="display: flex; align-items: center; gap: 8px; cursor: pointer;">
-                        <input type="radio" name="language" value="swahili" onchange="handleLanguageChange('swahili')"> 
+                        <input type="radio" name="language" value="swahili" onchange="handleLanguageChange('swahili')">
                         <span style="font-weight: 600;">Swahili</span>
                     </label>
                 </div>
@@ -389,10 +394,19 @@
             <div style="display: flex; gap: 30px; align-items: center; justify-content: center; flex-wrap: wrap;">
                 <div style="display: flex; gap: 10px; align-items: center;">
                     <input type="checkbox" id="auto-speak" onchange="saveSettings(); if(this.checked) speakWord()">
-                    <label for="auto-speak" id="auto-speak-label" style="user-select: none; cursor: pointer;">Auto-speak</label>
+                    <label for="auto-speak" id="auto-speak-label"
+                        style="user-select: none; cursor: pointer;">Auto-speak</label>
                 </div>
                 <a id="translate-link" href="#" target="_blank" class="translate-link">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></svg>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="m5 8 6 6" />
+                        <path d="m4 14 6-6 2-3" />
+                        <path d="M2 5h12" />
+                        <path d="M7 2h1" />
+                        <path d="m22 22-5-10-5 10" />
+                        <path d="M14 18h6" />
+                    </svg>
                     Google Translate
                 </a>
             </div>
@@ -416,6 +430,13 @@
             <button class="btn btn-secondary" style="margin-top: 10px;" onclick="exitQuiz()">Exit Quiz</button>
         </div>
     </div>
+
+    <footer style="padding-top: 40px; text-align: center; font-size: 0.9rem;">
+        <a href="https://github.com/EdricY/Duolingo-Flashcards" target="_blank"
+            style="color: var(--secondary); text-decoration: none; font-weight: 600; transition: var(--transition);">
+            Report issues and view source on GitHub
+        </a>
+    </footer>
 
     <script>
         let allWords = {};
@@ -447,7 +468,7 @@
             const savedLang = localStorage.getItem('currentLanguage') || 'chinese';
             const radio = document.querySelector(`input[name="language"][value="${savedLang}"]`);
             if (radio) radio.checked = true;
-            
+
             await handleLanguageChange(savedLang, false);
         }
 
@@ -460,12 +481,12 @@
             }
 
             const config = languageConfigs[lang];
-            
+
             // Update UI text
             document.getElementById('main-title').textContent = config.title;
             document.getElementById('sub-title').textContent = config.subtitle;
             document.getElementById('auto-speak-label').textContent = config.speakLabel;
-            document.title = config.title + ' - Duolingo Sidecar';
+            document.title = 'Duolingo Flashcards - ' + config.title;
 
             const groupList = document.getElementById('group-list');
             groupList.innerHTML = '<p style="grid-column: 1/-1; text-align: center; padding-top: 150px; color: #777;">Loading groups...</p>';
@@ -483,7 +504,7 @@
         function populateGroups() {
             const groupList = document.getElementById('group-list');
             groupList.innerHTML = '';
-            
+
             const savedGroups = JSON.parse(localStorage.getItem('selectedGroups') || '[]');
 
             Object.keys(allWords).forEach(groupName => {
@@ -525,11 +546,11 @@
                 };
                 groupList.appendChild(div);
             });
-            
+
             // Load other settings
             const shuffle = localStorage.getItem('shuffleCards');
             if (shuffle !== null) document.getElementById('shuffle').checked = shuffle === 'true';
-            
+
             const defFirst = localStorage.getItem('defFirst');
             if (defFirst !== null) document.getElementById('def-first').checked = defFirst === 'true';
 
@@ -585,7 +606,7 @@
             document.getElementById('setup-screen').style.display = screenId === 'setup-screen' ? 'flex' : 'none';
             document.getElementById('quiz-screen').style.display = screenId === 'quiz-screen' ? 'flex' : 'none';
             document.querySelector('header').style.display = screenId === 'setup-screen' ? 'block' : 'none';
-            
+
             if (screenId === 'quiz-screen') {
                 document.body.classList.add('quiz-mode');
             } else {

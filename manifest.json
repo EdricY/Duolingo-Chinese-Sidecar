@@ -1,6 +1,6 @@
 {
-  "name": "Duolingo Sidecar",
-  "short_name": "Sidecar",
+  "name": "Duolingo Flashcards",
+  "short_name": "Duolingo Flashcards",
   "description": "Master your vocabulary with flashcards",
   "start_url": "./index.html",
   "display": "standalone",
