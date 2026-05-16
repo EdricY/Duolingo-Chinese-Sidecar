@@ -381,7 +381,12 @@
                     <label for="def-first">Definition first</label>
                 </div>
             </div>
-            <button id="start-btn" class="btn" style="margin-top: 20px;" onclick="startQuiz()">Start Quiz</button>
+            <div style="display: flex; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
+                <button id="start-btn" class="btn" style="flex: 3; min-width: 200px;" onclick="startQuiz()">Start
+                    Quiz</button>
+                <button id="start-starred-btn" class="btn btn-secondary" style="flex: 1; min-width: 200px;"
+                    onclick="startStarredQuiz()">Quiz ⭐ (<span id="starred-count-btn">0</span>)</button>
+            </div>
         </div>
 
         <!-- Quiz Screen -->
@@ -391,7 +396,8 @@
             </div>
             <div class="stats" id="stats">Card 1 of 10</div>
 
-            <div style="display: flex; gap: 30px; align-items: center; justify-content: center; flex-wrap: wrap;">
+            <div
+                style="display: flex; gap: 30px; align-items: center; justify-content: center; flex-wrap: wrap; margin-bottom: 10px;">
                 <div style="display: flex; gap: 10px; align-items: center;">
                     <input type="checkbox" id="auto-speak" onchange="saveSettings(); if(this.checked) speakWord()">
                     <label for="auto-speak" id="auto-speak-label"
@@ -409,6 +415,16 @@
                     </svg>
                     Google Translate
                 </a>
+                <button id="star-btn" onclick="toggleStar()"
+                    style="background: none; border: none; padding: 5px; cursor: pointer; color: #999; display: flex; align-items: center; justify-content: center; transition: transform 0.2s;"
+                    title="Star word">
+                    <svg id="star-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                        stroke-linecap="round" stroke-linejoin="round" style="width: 24px; height: 24px;">
+                        <polygon
+                            points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                        </polygon>
+                    </svg>
+                </button>
             </div>
 
             <div class="flashcard-container" onclick="flipCard()">
@@ -472,6 +488,34 @@
             await handleLanguageChange(savedLang, false);
         }
 
+        function getStarredWords() {
+            return JSON.parse(localStorage.getItem(`starredWords_${currentLanguage}`) || '[]');
+        }
+
+        function saveStarredWords(words) {
+            localStorage.setItem(`starredWords_${currentLanguage}`, JSON.stringify(words));
+        }
+
+        function toggleStar() {
+            const wordObj = quizWords[currentIndex];
+            if (!wordObj) return;
+            let starred = getStarredWords();
+            const index = starred.indexOf(wordObj.word);
+
+            const starIcon = document.getElementById('star-icon');
+
+            if (index > -1) {
+                starred.splice(index, 1);
+                starIcon.setAttribute('fill', 'none');
+                starIcon.setAttribute('stroke', 'currentColor');
+            } else {
+                starred.push(wordObj.word);
+                starIcon.setAttribute('fill', 'var(--accent)');
+                starIcon.setAttribute('stroke', 'var(--accent)');
+            }
+            saveStarredWords(starred);
+        }
+
         async function handleLanguageChange(lang, shouldSave = true) {
             currentLanguage = lang;
             if (shouldSave) {
@@ -506,6 +550,10 @@
             groupList.innerHTML = '';
 
             const savedGroups = JSON.parse(localStorage.getItem('selectedGroups') || '[]');
+
+            const starredWords = getStarredWords();
+            const btnSpan = document.getElementById('starred-count-btn');
+            if (btnSpan) btnSpan.textContent = starredWords.length;
 
             Object.keys(allWords).forEach(groupName => {
                 const div = document.createElement('div');
@@ -580,6 +628,38 @@
             saveSettings();
         }
 
+        function startStarredQuiz() {
+            const starredStrs = getStarredWords();
+            if (starredStrs.length === 0) {
+                alert('You have no starred words for this language!');
+                return;
+            }
+
+            const uniqueWords = new Map();
+            Object.values(allWords).forEach(group => {
+                group.forEach(wordObj => {
+                    if (starredStrs.includes(wordObj.word) && !uniqueWords.has(wordObj.word)) {
+                        uniqueWords.set(wordObj.word, wordObj);
+                    }
+                });
+            });
+
+            quizWords = Array.from(uniqueWords.values());
+
+            if (quizWords.length === 0) {
+                alert('No words found in the dataset for your starred words!');
+                return;
+            }
+
+            if (document.getElementById('shuffle').checked) {
+                quizWords.sort(() => Math.random() - 0.5);
+            }
+
+            currentIndex = 0;
+            showScreen('quiz-screen');
+            updateCard();
+        }
+
         function startQuiz() {
             const selectedGroups = Array.from(document.querySelectorAll('#group-list input:checked')).map(cb => cb.value);
 
@@ -592,6 +672,11 @@
             selectedGroups.forEach(group => {
                 quizWords = quizWords.concat(allWords[group]);
             });
+
+            // Filter duplicates if any
+            const unique = new Map();
+            quizWords.forEach(w => unique.set(w.word, w));
+            quizWords = Array.from(unique.values());
 
             if (document.getElementById('shuffle').checked) {
                 quizWords.sort(() => Math.random() - 0.5);
@@ -612,6 +697,9 @@
             } else {
                 document.body.classList.remove('quiz-mode');
             }
+
+            const btnSpan = document.getElementById('starred-count-btn');
+            if (btnSpan) btnSpan.textContent = getStarredWords().length;
         }
 
         let updateTimeout = null;
@@ -658,6 +746,17 @@
             // Update translate link
             const translateLink = document.getElementById('translate-link');
             translateLink.href = `https://translate.google.com/?sl=${config.translateCode}&tl=en&text=${encodeURIComponent(wordObj.word)}&op=translate`;
+
+            // Update star icon
+            const starred = getStarredWords();
+            const starIcon = document.getElementById('star-icon');
+            if (starred.includes(wordObj.word)) {
+                starIcon.setAttribute('fill', 'var(--accent)');
+                starIcon.setAttribute('stroke', 'var(--accent)');
+            } else {
+                starIcon.setAttribute('fill', 'none');
+                starIcon.setAttribute('stroke', 'currentColor');
+            }
 
             // Update stats & progress
             document.getElementById('stats').textContent = `Card ${currentIndex + 1} of ${quizWords.length}`;
